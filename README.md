@@ -160,6 +160,12 @@ If I extended this project further, I would:
 - Simulate **SEO experiments / title tag changes** and estimate CTR uplift
 - Explore **forecasting** for future organic traffic trends
 
+- ## SQL Queries
+
+All analysis queries used in this project can be found here:
+
+[View SQL Queries](sql/queries.sql)
+
 ## Repository Structure
 
 ```bash
