@@ -1,0 +1,919 @@
+date,page,keyword,clicks,impressions,ctr,avg_position,traffic_source,device,country
+2026-01-01,/classroom-display-ideas,classroom display ideas,75,1515,0.0495,12.79,organic_google,desktop,UK
+2026-01-01,/eyfs-resources,eyfs resources,190,2760,0.0688,9.05,organic_google,mobile,UK
+2026-01-01,/home-learning-resources,home learning resources,564,4477,0.126,4.46,organic_google,desktop,CA
+2026-01-01,/lesson-plans-english,english lesson plans,99,1729,0.0573,10.1,organic_google,desktop,CA
+2026-01-01,/maths-activities-ks2,maths activities ks2,403,3655,0.1103,4.98,organic_google,desktop,AU
+2026-01-01,/phonics-worksheets,phonics worksheets,529,4535,0.1166,4.54,organic_google,desktop,UK
+2026-01-01,/reading-comprehension-year-3,reading comprehension year 3,175,2525,0.0693,8.86,organic_google,desktop,UK
+2026-01-01,/science-experiments-kids,science experiments for kids,89,2225,0.04,10.91,organic_google,mobile,UK
+2026-01-01,/spelling-activities,spelling activities,83,1793,0.0463,13.01,organic_google,desktop,UK
+2026-01-01,/times-tables-games,times tables games,159,2247,0.0708,8.82,organic_google,desktop,UK
+2026-01-02,/classroom-display-ideas,classroom display ideas,25,1394,0.0179,14.61,organic_google,desktop,US
+2026-01-02,/eyfs-resources,eyfs resources,248,2950,0.0841,6.83,organic_google,mobile,AU
+2026-01-02,/home-learning-resources,home learning resources,599,5289,0.1133,4.44,organic_google,mobile,UK
+2026-01-02,/lesson-plans-english,english lesson plans,64,1967,0.0325,10.99,organic_google,desktop,UK
+2026-01-02,/maths-activities-ks2,maths activities ks2,286,3012,0.095,7.03,organic_google,desktop,US
+2026-01-02,/phonics-worksheets,phonics worksheets,287,4155,0.0691,7.7,organic_google,desktop,UK
+2026-01-02,/reading-comprehension-year-3,reading comprehension year 3,231,2718,0.085,8.35,organic_bing,desktop,UK
+2026-01-02,/science-experiments-kids,science experiments for kids,130,2112,0.0616,9.97,organic_google,mobile,US
+2026-01-02,/spelling-activities,spelling activities,74,1615,0.0458,12.3,organic_google,desktop,UK
+2026-01-02,/times-tables-games,times tables games,129,2410,0.0535,10.02,organic_bing,desktop,UK
+2026-01-03,/classroom-display-ideas,classroom display ideas,43,1140,0.0377,12.87,organic_google,desktop,UK
+2026-01-03,/eyfs-resources,eyfs resources,227,2377,0.0955,6.71,organic_google,mobile,UK
+2026-01-03,/home-learning-resources,home learning resources,466,4637,0.1005,5.31,organic_google,desktop,UK
+2026-01-03,/lesson-plans-english,english lesson plans,108,1859,0.0581,11.62,organic_bing,mobile,UK
+2026-01-03,/maths-activities-ks2,maths activities ks2,335,2961,0.1131,5.47,organic_google,desktop,UK
+2026-01-03,/phonics-worksheets,phonics worksheets,356,3456,0.103,6.37,organic_google,mobile,UK
+2026-01-03,/reading-comprehension-year-3,reading comprehension year 3,129,2110,0.0611,7.94,organic_google,mobile,AU
+2026-01-03,/science-experiments-kids,science experiments for kids,134,1825,0.0734,9.23,organic_google,mobile,UK
+2026-01-03,/spelling-activities,spelling activities,65,1205,0.0539,11.68,organic_google,mobile,UK
+2026-01-03,/times-tables-games,times tables games,160,2187,0.0732,9.49,organic_google,desktop,AU
+2026-01-04,/classroom-display-ideas,classroom display ideas,50,969,0.0516,13.38,organic_google,desktop,UK
+2026-01-04,/eyfs-resources,eyfs resources,231,2682,0.0861,7.24,organic_bing,mobile,UK
+2026-01-04,/home-learning-resources,home learning resources,453,4003,0.1132,4.79,organic_google,mobile,UK
+2026-01-04,/lesson-plans-english,english lesson plans,93,1658,0.0561,12.91,organic_google,mobile,CA
+2026-01-04,/maths-activities-ks2,maths activities ks2,326,3112,0.1048,6.24,organic_google,desktop,UK
+2026-01-04,/phonics-worksheets,phonics worksheets,394,3703,0.1064,5.57,organic_google,mobile,UK
+2026-01-04,/reading-comprehension-year-3,reading comprehension year 3,170,2482,0.0685,8.89,organic_google,desktop,UK
+2026-01-04,/science-experiments-kids,science experiments for kids,119,1628,0.0731,9.93,organic_google,mobile,UK
+2026-01-04,/spelling-activities,spelling activities,62,1554,0.0399,11.8,organic_google,desktop,CA
+2026-01-04,/times-tables-games,times tables games,119,1984,0.06,8.97,organic_google,desktop,UK
+2026-01-05,/classroom-display-ideas,classroom display ideas,29,1281,0.0226,15.24,organic_google,desktop,CA
+2026-01-05,/eyfs-resources,eyfs resources,300,3277,0.0915,7.32,organic_google,desktop,US
+2026-01-05,/home-learning-resources,home learning resources,612,5340,0.1146,5.21,organic_google,desktop,UK
+2026-01-05,/lesson-plans-english,english lesson plans,113,1918,0.0589,11.76,organic_bing,mobile,AU
+2026-01-05,/maths-activities-ks2,maths activities ks2,362,2849,0.1271,5.16,organic_google,desktop,US
+2026-01-05,/phonics-worksheets,phonics worksheets,648,4766,0.136,4.81,organic_google,mobile,UK
+2026-01-05,/reading-comprehension-year-3,reading comprehension year 3,152,2807,0.0542,8.2,organic_google,desktop,UK
+2026-01-05,/science-experiments-kids,science experiments for kids,132,2097,0.0629,10.37,organic_google,mobile,UK
+2026-01-05,/spelling-activities,spelling activities,48,1791,0.0268,11.73,organic_google,desktop,CA
+2026-01-05,/times-tables-games,times tables games,161,2635,0.0611,9.35,organic_bing,desktop,UK
+2026-01-06,/classroom-display-ideas,classroom display ideas,67,1433,0.0468,14.96,organic_bing,desktop,UK
+2026-01-06,/eyfs-resources,eyfs resources,278,2947,0.0943,7.49,organic_google,desktop,US
+2026-01-06,/home-learning-resources,home learning resources,532,4731,0.1124,4.96,organic_google,mobile,UK
+2026-01-06,/lesson-plans-english,english lesson plans,119,2127,0.0559,10.73,organic_yahoo,desktop,CA
+2026-01-06,/maths-activities-ks2,maths activities ks2,301,3648,0.0825,6.73,organic_google,desktop,AU
+2026-01-06,/phonics-worksheets,phonics worksheets,461,4487,0.1027,6.53,organic_google,desktop,UK
+2026-01-06,/reading-comprehension-year-3,reading comprehension year 3,219,2788,0.0786,8.8,organic_bing,tablet,US
+2026-01-06,/science-experiments-kids,science experiments for kids,140,2061,0.0679,10.16,organic_google,tablet,UK
+2026-01-06,/spelling-activities,spelling activities,72,1722,0.0418,13.09,organic_google,mobile,US
+2026-01-06,/times-tables-games,times tables games,223,2283,0.0977,7.37,organic_bing,desktop,UK
+2026-01-07,/classroom-display-ideas,classroom display ideas,82,1533,0.0535,12.62,organic_google,mobile,UK
+2026-01-07,/eyfs-resources,eyfs resources,212,2917,0.0727,7.24,organic_google,tablet,AU
+2026-01-07,/home-learning-resources,home learning resources,491,4908,0.1,4.98,organic_google,mobile,UK
+2026-01-07,/lesson-plans-english,english lesson plans,145,2258,0.0642,11.09,organic_bing,mobile,UK
+2026-01-07,/maths-activities-ks2,maths activities ks2,324,3643,0.0889,7.38,organic_bing,desktop,UK
+2026-01-07,/phonics-worksheets,phonics worksheets,648,4465,0.1451,3.47,organic_google,mobile,UK
+2026-01-07,/reading-comprehension-year-3,reading comprehension year 3,171,2117,0.0808,7.38,organic_bing,mobile,CA
+2026-01-07,/science-experiments-kids,science experiments for kids,121,1937,0.0625,10.63,organic_google,desktop,US
+2026-01-07,/spelling-activities,spelling activities,90,1567,0.0574,12.08,organic_google,desktop,UK
+2026-01-07,/times-tables-games,times tables games,138,2370,0.0582,10.21,organic_bing,mobile,UK
+2026-01-08,/classroom-display-ideas,classroom display ideas,58,1421,0.0408,14.17,organic_google,mobile,UK
+2026-01-08,/eyfs-resources,eyfs resources,264,3074,0.0859,6.64,organic_google,desktop,UK
+2026-01-08,/home-learning-resources,home learning resources,569,4749,0.1198,5.27,organic_bing,desktop,CA
+2026-01-08,/lesson-plans-english,english lesson plans,96,1632,0.0588,11.02,organic_google,desktop,UK
+2026-01-08,/maths-activities-ks2,maths activities ks2,293,3394,0.0863,6.14,organic_google,mobile,UK
+2026-01-08,/phonics-worksheets,phonics worksheets,436,4306,0.1013,4.77,organic_yahoo,mobile,UK
+2026-01-08,/reading-comprehension-year-3,reading comprehension year 3,178,2343,0.076,7.95,organic_google,desktop,AU
+2026-01-08,/science-experiments-kids,science experiments for kids,134,2626,0.051,9.95,organic_google,desktop,UK
+2026-01-08,/spelling-activities,spelling activities,70,1597,0.0438,11.58,organic_google,desktop,UK
+2026-01-08,/times-tables-games,times tables games,102,1924,0.053,9.68,organic_google,desktop,UK
+2026-01-09,/classroom-display-ideas,classroom display ideas,50,1521,0.0329,14.14,organic_google,desktop,US
+2026-01-09,/eyfs-resources,eyfs resources,345,2848,0.1211,5.0,organic_yahoo,desktop,UK
+2026-01-09,/home-learning-resources,home learning resources,651,5937,0.1097,5.01,organic_google,desktop,UK
+2026-01-09,/lesson-plans-english,english lesson plans,98,2134,0.0459,10.88,organic_google,desktop,CA
+2026-01-09,/maths-activities-ks2,maths activities ks2,329,3294,0.0999,5.7,organic_google,desktop,AU
+2026-01-09,/phonics-worksheets,phonics worksheets,717,4750,0.1509,3.47,organic_yahoo,mobile,UK
+2026-01-09,/reading-comprehension-year-3,reading comprehension year 3,176,2723,0.0646,8.32,organic_google,mobile,UK
+2026-01-09,/science-experiments-kids,science experiments for kids,88,2106,0.0418,9.95,organic_google,desktop,UK
+2026-01-09,/spelling-activities,spelling activities,79,1627,0.0486,12.91,organic_google,mobile,UK
+2026-01-09,/times-tables-games,times tables games,116,2275,0.051,9.75,organic_google,desktop,UK
+2026-01-10,/classroom-display-ideas,classroom display ideas,30,893,0.0336,13.84,organic_bing,tablet,UK
+2026-01-10,/eyfs-resources,eyfs resources,175,2212,0.0791,7.71,organic_google,desktop,CA
+2026-01-10,/home-learning-resources,home learning resources,482,4014,0.1201,4.29,organic_google,desktop,AU
+2026-01-10,/lesson-plans-english,english lesson plans,82,1567,0.0523,12.11,organic_google,desktop,UK
+2026-01-10,/maths-activities-ks2,maths activities ks2,352,2618,0.1345,4.42,organic_google,desktop,AU
+2026-01-10,/phonics-worksheets,phonics worksheets,547,3647,0.15,3.23,organic_bing,desktop,AU
+2026-01-10,/reading-comprehension-year-3,reading comprehension year 3,164,1992,0.0823,7.78,organic_google,mobile,AU
+2026-01-10,/science-experiments-kids,science experiments for kids,109,1734,0.0629,10.86,organic_google,desktop,US
+2026-01-10,/spelling-activities,spelling activities,41,1430,0.0287,12.97,organic_bing,desktop,UK
+2026-01-10,/times-tables-games,times tables games,144,2201,0.0654,8.13,organic_google,desktop,UK
+2026-01-11,/classroom-display-ideas,classroom display ideas,39,1024,0.0381,13.88,organic_google,mobile,UK
+2026-01-11,/eyfs-resources,eyfs resources,132,2389,0.0553,7.68,organic_bing,desktop,UK
+2026-01-11,/home-learning-resources,home learning resources,516,4157,0.1241,4.55,organic_google,desktop,US
+2026-01-11,/lesson-plans-english,english lesson plans,86,1667,0.0516,10.91,organic_google,desktop,UK
+2026-01-11,/maths-activities-ks2,maths activities ks2,302,3542,0.0853,6.62,organic_google,mobile,UK
+2026-01-11,/phonics-worksheets,phonics worksheets,375,3042,0.1233,4.93,organic_google,tablet,AU
+2026-01-11,/reading-comprehension-year-3,reading comprehension year 3,120,1853,0.0648,7.89,organic_google,mobile,UK
+2026-01-11,/science-experiments-kids,science experiments for kids,93,1649,0.0564,10.07,organic_google,desktop,US
+2026-01-11,/spelling-activities,spelling activities,56,1607,0.0348,10.17,organic_google,desktop,UK
+2026-01-11,/times-tables-games,times tables games,76,1926,0.0395,9.86,organic_google,desktop,US
+2026-01-12,/classroom-display-ideas,classroom display ideas,53,1491,0.0355,13.72,organic_google,desktop,UK
+2026-01-12,/eyfs-resources,eyfs resources,367,3017,0.1216,5.66,organic_bing,mobile,UK
+2026-01-12,/home-learning-resources,home learning resources,713,5154,0.1383,3.58,organic_google,desktop,US
+2026-01-12,/lesson-plans-english,english lesson plans,125,1930,0.0648,9.7,organic_google,mobile,AU
+2026-01-12,/maths-activities-ks2,maths activities ks2,402,3663,0.1097,5.45,organic_google,mobile,UK
+2026-01-12,/phonics-worksheets,phonics worksheets,469,4200,0.1117,5.08,organic_google,mobile,UK
+2026-01-12,/reading-comprehension-year-3,reading comprehension year 3,289,2963,0.0975,6.7,organic_google,mobile,UK
+2026-01-12,/science-experiments-kids,science experiments for kids,116,2588,0.0448,10.74,organic_google,tablet,UK
+2026-01-12,/spelling-activities,spelling activities,48,1948,0.0246,13.56,organic_bing,desktop,UK
+2026-01-12,/times-tables-games,times tables games,122,2100,0.0581,9.78,organic_google,desktop,UK
+2026-01-13,/classroom-display-ideas,classroom display ideas,47,1446,0.0325,14.69,organic_google,desktop,UK
+2026-01-13,/eyfs-resources,eyfs resources,250,2872,0.087,7.4,organic_google,desktop,UK
+2026-01-13,/home-learning-resources,home learning resources,810,5515,0.1469,3.49,organic_google,mobile,CA
+2026-01-13,/lesson-plans-english,english lesson plans,120,1970,0.0609,10.63,organic_google,desktop,UK
+2026-01-13,/maths-activities-ks2,maths activities ks2,319,3331,0.0958,6.39,organic_google,mobile,UK
+2026-01-13,/phonics-worksheets,phonics worksheets,328,3583,0.0915,5.49,organic_google,mobile,UK
+2026-01-13,/reading-comprehension-year-3,reading comprehension year 3,205,2374,0.0864,7.92,organic_google,mobile,US
+2026-01-13,/science-experiments-kids,science experiments for kids,138,2348,0.0588,10.31,organic_yahoo,tablet,UK
+2026-01-13,/spelling-activities,spelling activities,52,1565,0.0332,13.32,organic_google,mobile,AU
+2026-01-13,/times-tables-games,times tables games,181,2410,0.0751,8.64,organic_google,desktop,CA
+2026-01-14,/classroom-display-ideas,classroom display ideas,51,1445,0.0353,13.33,organic_google,mobile,UK
+2026-01-14,/eyfs-resources,eyfs resources,212,2662,0.0796,6.87,organic_bing,tablet,UK
+2026-01-14,/home-learning-resources,home learning resources,734,5266,0.1394,4.24,organic_google,mobile,US
+2026-01-14,/lesson-plans-english,english lesson plans,103,2178,0.0473,12.89,organic_google,desktop,AU
+2026-01-14,/maths-activities-ks2,maths activities ks2,281,3144,0.0894,5.36,organic_google,desktop,CA
+2026-01-14,/phonics-worksheets,phonics worksheets,477,3964,0.1203,3.65,organic_google,desktop,UK
+2026-01-14,/reading-comprehension-year-3,reading comprehension year 3,135,2934,0.046,9.4,organic_google,desktop,UK
+2026-01-14,/science-experiments-kids,science experiments for kids,151,2130,0.0709,9.26,organic_google,mobile,UK
+2026-01-14,/spelling-activities,spelling activities,50,1794,0.0279,13.17,organic_google,desktop,UK
+2026-01-14,/times-tables-games,times tables games,162,2403,0.0674,8.6,organic_yahoo,mobile,CA
+2026-01-15,/classroom-display-ideas,classroom display ideas,42,1186,0.0354,13.02,organic_google,mobile,UK
+2026-01-15,/eyfs-resources,eyfs resources,273,3343,0.0817,6.7,organic_google,desktop,AU
+2026-01-15,/home-learning-resources,home learning resources,539,3523,0.153,3.5,organic_google,mobile,UK
+2026-01-15,/lesson-plans-english,english lesson plans,145,2070,0.07,9.55,organic_google,desktop,AU
+2026-01-15,/maths-activities-ks2,maths activities ks2,351,3584,0.0979,6.89,organic_google,desktop,AU
+2026-01-15,/phonics-worksheets,phonics worksheets,493,4317,0.1142,5.19,organic_google,mobile,AU
+2026-01-15,/reading-comprehension-year-3,reading comprehension year 3,216,2626,0.0823,8.1,organic_yahoo,mobile,UK
+2026-01-15,/science-experiments-kids,science experiments for kids,161,2422,0.0665,9.05,organic_google,desktop,US
+2026-01-15,/spelling-activities,spelling activities,75,1774,0.0423,11.88,organic_google,mobile,UK
+2026-01-15,/times-tables-games,times tables games,120,2090,0.0574,10.2,organic_google,mobile,UK
+2026-01-16,/classroom-display-ideas,classroom display ideas,53,1643,0.0323,13.78,organic_google,desktop,UK
+2026-01-16,/eyfs-resources,eyfs resources,260,2956,0.088,7.37,organic_google,desktop,UK
+2026-01-16,/home-learning-resources,home learning resources,586,5424,0.108,5.25,organic_bing,desktop,US
+2026-01-16,/lesson-plans-english,english lesson plans,98,1891,0.0518,11.3,organic_google,mobile,UK
+2026-01-16,/maths-activities-ks2,maths activities ks2,391,3714,0.1053,5.93,organic_google,mobile,US
+2026-01-16,/phonics-worksheets,phonics worksheets,384,3796,0.1012,5.72,organic_google,desktop,UK
+2026-01-16,/reading-comprehension-year-3,reading comprehension year 3,177,2958,0.0598,8.49,organic_google,mobile,UK
+2026-01-16,/science-experiments-kids,science experiments for kids,115,2144,0.0536,10.18,organic_google,mobile,UK
+2026-01-16,/spelling-activities,spelling activities,96,2063,0.0465,12.28,organic_google,desktop,UK
+2026-01-16,/times-tables-games,times tables games,168,2374,0.0708,8.41,organic_google,desktop,AU
+2026-01-17,/classroom-display-ideas,classroom display ideas,50,1139,0.0439,12.21,organic_google,desktop,UK
+2026-01-17,/eyfs-resources,eyfs resources,252,2750,0.0916,6.17,organic_google,mobile,UK
+2026-01-17,/home-learning-resources,home learning resources,512,4486,0.1141,4.7,organic_google,mobile,US
+2026-01-17,/lesson-plans-english,english lesson plans,91,1942,0.0469,11.64,organic_google,mobile,US
+2026-01-17,/maths-activities-ks2,maths activities ks2,242,2851,0.0849,6.96,organic_google,mobile,US
+2026-01-17,/phonics-worksheets,phonics worksheets,318,3283,0.0969,6.45,organic_bing,mobile,AU
+2026-01-17,/reading-comprehension-year-3,reading comprehension year 3,113,1985,0.0569,8.7,organic_google,desktop,UK
+2026-01-17,/science-experiments-kids,science experiments for kids,65,1513,0.043,11.8,organic_bing,mobile,UK
+2026-01-17,/spelling-activities,spelling activities,70,1469,0.0477,11.75,organic_google,desktop,AU
+2026-01-17,/times-tables-games,times tables games,117,2069,0.0565,9.87,organic_google,mobile,UK
+2026-01-18,/classroom-display-ideas,classroom display ideas,52,1213,0.0429,13.14,organic_google,desktop,US
+2026-01-18,/eyfs-resources,eyfs resources,254,2733,0.0929,6.76,organic_google,desktop,UK
+2026-01-18,/home-learning-resources,home learning resources,698,4420,0.1579,3.2,organic_google,tablet,UK
+2026-01-18,/lesson-plans-english,english lesson plans,74,1755,0.0422,11.86,organic_google,mobile,AU
+2026-01-18,/maths-activities-ks2,maths activities ks2,257,2581,0.0996,6.62,organic_google,mobile,AU
+2026-01-18,/phonics-worksheets,phonics worksheets,469,3194,0.1468,3.32,organic_google,desktop,UK
+2026-01-18,/reading-comprehension-year-3,reading comprehension year 3,176,2165,0.0813,7.27,organic_google,desktop,UK
+2026-01-18,/science-experiments-kids,science experiments for kids,71,1642,0.0432,10.52,organic_google,tablet,UK
+2026-01-18,/spelling-activities,spelling activities,60,1409,0.0426,13.9,organic_google,desktop,CA
+2026-01-18,/times-tables-games,times tables games,141,2053,0.0687,9.11,organic_bing,desktop,UK
+2026-01-19,/classroom-display-ideas,classroom display ideas,32,1416,0.0226,14.13,organic_google,tablet,UK
+2026-01-19,/eyfs-resources,eyfs resources,239,2552,0.0937,5.97,organic_google,mobile,US
+2026-01-19,/home-learning-resources,home learning resources,725,5380,0.1348,4.0,organic_google,mobile,UK
+2026-01-19,/lesson-plans-english,english lesson plans,80,2098,0.0381,11.78,organic_google,desktop,US
+2026-01-19,/maths-activities-ks2,maths activities ks2,333,3481,0.0957,5.38,organic_google,desktop,UK
+2026-01-19,/phonics-worksheets,phonics worksheets,505,4708,0.1073,5.84,organic_google,mobile,UK
+2026-01-19,/reading-comprehension-year-3,reading comprehension year 3,175,2174,0.0805,7.55,organic_google,desktop,UK
+2026-01-19,/science-experiments-kids,science experiments for kids,110,2155,0.051,10.51,organic_google,mobile,UK
+2026-01-19,/spelling-activities,spelling activities,78,1635,0.0477,11.03,organic_google,desktop,UK
+2026-01-19,/times-tables-games,times tables games,97,2614,0.0371,10.16,organic_google,mobile,US
+2026-01-20,/classroom-display-ideas,classroom display ideas,71,1446,0.0491,14.56,organic_google,mobile,UK
+2026-01-20,/eyfs-resources,eyfs resources,155,2827,0.0548,8.78,organic_google,mobile,AU
+2026-01-20,/home-learning-resources,home learning resources,624,4740,0.1316,4.25,organic_google,mobile,AU
+2026-01-20,/lesson-plans-english,english lesson plans,102,2099,0.0486,10.12,organic_google,desktop,UK
+2026-01-20,/maths-activities-ks2,maths activities ks2,411,3655,0.1124,5.64,organic_google,mobile,UK
+2026-01-20,/phonics-worksheets,phonics worksheets,404,4251,0.095,5.4,organic_google,mobile,CA
+2026-01-20,/reading-comprehension-year-3,reading comprehension year 3,137,2948,0.0465,9.4,organic_google,mobile,UK
+2026-01-20,/science-experiments-kids,science experiments for kids,96,2257,0.0425,9.77,organic_google,desktop,AU
+2026-01-20,/spelling-activities,spelling activities,79,1628,0.0485,12.86,organic_google,mobile,UK
+2026-01-20,/times-tables-games,times tables games,134,2450,0.0547,9.33,organic_google,desktop,US
+2026-01-21,/classroom-display-ideas,classroom display ideas,47,1497,0.0314,14.41,organic_google,desktop,UK
+2026-01-21,/eyfs-resources,eyfs resources,268,3026,0.0886,6.14,organic_google,desktop,CA
+2026-01-21,/home-learning-resources,home learning resources,502,4564,0.11,4.7,organic_google,mobile,UK
+2026-01-21,/lesson-plans-english,english lesson plans,100,1967,0.0508,11.04,organic_google,desktop,AU
+2026-01-21,/maths-activities-ks2,maths activities ks2,266,3466,0.0767,7.18,organic_google,desktop,AU
+2026-01-21,/phonics-worksheets,phonics worksheets,455,4242,0.1073,4.57,organic_google,tablet,CA
+2026-01-21,/reading-comprehension-year-3,reading comprehension year 3,274,2489,0.1101,6.82,organic_google,mobile,UK
+2026-01-21,/science-experiments-kids,science experiments for kids,107,2303,0.0465,10.68,organic_google,desktop,US
+2026-01-21,/spelling-activities,spelling activities,75,2081,0.036,12.06,organic_google,desktop,UK
+2026-01-21,/times-tables-games,times tables games,158,2172,0.0727,8.69,organic_bing,desktop,AU
+2026-01-22,/classroom-display-ideas,classroom display ideas,51,1462,0.0349,12.72,organic_bing,desktop,CA
+2026-01-22,/eyfs-resources,eyfs resources,312,2791,0.1118,5.77,organic_google,mobile,UK
+2026-01-22,/home-learning-resources,home learning resources,739,5093,0.1451,3.57,organic_google,desktop,UK
+2026-01-22,/lesson-plans-english,english lesson plans,112,2000,0.056,10.05,organic_google,mobile,UK
+2026-01-22,/maths-activities-ks2,maths activities ks2,321,3292,0.0975,5.87,organic_google,mobile,UK
+2026-01-22,/phonics-worksheets,phonics worksheets,462,3766,0.1227,4.45,organic_yahoo,desktop,US
+2026-01-22,/reading-comprehension-year-3,reading comprehension year 3,162,2645,0.0612,8.89,organic_google,mobile,US
+2026-01-22,/science-experiments-kids,science experiments for kids,117,2224,0.0526,9.31,organic_google,desktop,AU
+2026-01-22,/spelling-activities,spelling activities,89,1595,0.0558,10.48,organic_bing,mobile,UK
+2026-01-22,/times-tables-games,times tables games,138,2162,0.0638,8.98,organic_google,desktop,UK
+2026-01-23,/classroom-display-ideas,classroom display ideas,30,1419,0.0211,14.67,organic_google,mobile,US
+2026-01-23,/eyfs-resources,eyfs resources,201,2632,0.0764,7.23,organic_google,desktop,UK
+2026-01-23,/home-learning-resources,home learning resources,636,5564,0.1143,5.17,organic_google,desktop,UK
+2026-01-23,/lesson-plans-english,english lesson plans,84,2115,0.0397,10.52,organic_google,desktop,US
+2026-01-23,/maths-activities-ks2,maths activities ks2,237,3220,0.0736,7.24,organic_google,mobile,UK
+2026-01-23,/phonics-worksheets,phonics worksheets,584,4485,0.1302,5.07,organic_google,desktop,UK
+2026-01-23,/reading-comprehension-year-3,reading comprehension year 3,144,2810,0.0512,9.15,organic_google,mobile,US
+2026-01-23,/science-experiments-kids,science experiments for kids,130,2476,0.0525,11.64,organic_google,desktop,UK
+2026-01-23,/spelling-activities,spelling activities,74,1658,0.0446,12.03,organic_google,desktop,AU
+2026-01-23,/times-tables-games,times tables games,161,2295,0.0702,8.53,organic_yahoo,mobile,UK
+2026-01-24,/classroom-display-ideas,classroom display ideas,49,1078,0.0455,15.49,organic_google,mobile,AU
+2026-01-24,/eyfs-resources,eyfs resources,239,2456,0.0973,6.5,organic_google,desktop,UK
+2026-01-24,/home-learning-resources,home learning resources,454,3658,0.1241,4.6,organic_bing,desktop,UK
+2026-01-24,/lesson-plans-english,english lesson plans,75,1510,0.0497,11.47,organic_google,desktop,UK
+2026-01-24,/maths-activities-ks2,maths activities ks2,233,3494,0.0667,7.06,organic_google,mobile,AU
+2026-01-24,/phonics-worksheets,phonics worksheets,381,3458,0.1102,5.65,organic_google,mobile,AU
+2026-01-24,/reading-comprehension-year-3,reading comprehension year 3,200,2490,0.0803,7.76,organic_google,mobile,UK
+2026-01-24,/science-experiments-kids,science experiments for kids,89,1542,0.0577,9.31,organic_bing,tablet,UK
+2026-01-24,/spelling-activities,spelling activities,72,1583,0.0455,11.84,organic_google,mobile,UK
+2026-01-24,/times-tables-games,times tables games,131,1681,0.0779,9.22,organic_google,mobile,UK
+2026-01-25,/classroom-display-ideas,classroom display ideas,39,1151,0.0339,13.58,organic_google,mobile,UK
+2026-01-25,/eyfs-resources,eyfs resources,122,2173,0.0561,7.96,organic_google,desktop,UK
+2026-01-25,/home-learning-resources,home learning resources,495,4076,0.1214,5.25,organic_google,mobile,UK
+2026-01-25,/lesson-plans-english,english lesson plans,67,1624,0.0413,11.32,organic_google,tablet,UK
+2026-01-25,/maths-activities-ks2,maths activities ks2,315,2884,0.1092,6.66,organic_google,desktop,UK
+2026-01-25,/phonics-worksheets,phonics worksheets,358,3227,0.1109,4.65,organic_google,desktop,UK
+2026-01-25,/reading-comprehension-year-3,reading comprehension year 3,102,2079,0.0491,8.72,organic_bing,desktop,UK
+2026-01-25,/science-experiments-kids,science experiments for kids,53,1840,0.0288,9.9,organic_google,mobile,UK
+2026-01-25,/spelling-activities,spelling activities,62,1269,0.0489,11.59,organic_google,desktop,US
+2026-01-25,/times-tables-games,times tables games,144,2002,0.0719,8.7,organic_google,desktop,UK
+2026-01-26,/classroom-display-ideas,classroom display ideas,59,1433,0.0412,14.07,organic_google,desktop,US
+2026-01-26,/eyfs-resources,eyfs resources,232,3051,0.076,7.51,organic_google,mobile,UK
+2026-01-26,/home-learning-resources,home learning resources,620,4251,0.1458,3.38,organic_google,tablet,UK
+2026-01-26,/lesson-plans-english,english lesson plans,71,1998,0.0355,11.93,organic_google,desktop,AU
+2026-01-26,/maths-activities-ks2,maths activities ks2,228,3059,0.0745,8.13,organic_google,desktop,UK
+2026-01-26,/phonics-worksheets,phonics worksheets,400,4245,0.0942,5.71,organic_yahoo,desktop,US
+2026-01-26,/reading-comprehension-year-3,reading comprehension year 3,201,2624,0.0766,8.22,organic_google,desktop,UK
+2026-01-26,/science-experiments-kids,science experiments for kids,119,2454,0.0485,10.25,organic_google,desktop,UK
+2026-01-26,/spelling-activities,spelling activities,70,1677,0.0417,12.71,organic_google,desktop,UK
+2026-01-26,/times-tables-games,times tables games,244,2753,0.0886,8.64,organic_google,mobile,UK
+2026-01-27,/classroom-display-ideas,classroom display ideas,71,1390,0.0511,12.79,organic_bing,mobile,CA
+2026-01-27,/eyfs-resources,eyfs resources,281,3085,0.0911,7.24,organic_google,desktop,US
+2026-01-27,/home-learning-resources,home learning resources,653,5541,0.1178,3.75,organic_google,mobile,US
+2026-01-27,/lesson-plans-english,english lesson plans,131,2064,0.0635,10.87,organic_google,mobile,AU
+2026-01-27,/maths-activities-ks2,maths activities ks2,365,3698,0.0987,5.86,organic_yahoo,desktop,UK
+2026-01-27,/phonics-worksheets,phonics worksheets,442,4298,0.1028,5.61,organic_google,desktop,US
+2026-01-27,/reading-comprehension-year-3,reading comprehension year 3,210,2719,0.0772,8.29,organic_google,tablet,US
+2026-01-27,/science-experiments-kids,science experiments for kids,112,2060,0.0544,10.68,organic_google,mobile,UK
+2026-01-27,/spelling-activities,spelling activities,71,1802,0.0394,11.63,organic_google,desktop,US
+2026-01-27,/times-tables-games,times tables games,173,2400,0.0721,8.05,organic_google,mobile,UK
+2026-01-28,/classroom-display-ideas,classroom display ideas,40,1467,0.0273,14.07,organic_yahoo,mobile,UK
+2026-01-28,/eyfs-resources,eyfs resources,307,3142,0.0977,6.23,organic_google,mobile,AU
+2026-01-28,/home-learning-resources,home learning resources,780,5147,0.1515,3.57,organic_google,desktop,AU
+2026-01-28,/lesson-plans-english,english lesson plans,113,1943,0.0582,9.49,organic_google,desktop,UK
+2026-01-28,/maths-activities-ks2,maths activities ks2,446,3744,0.1191,5.15,organic_google,desktop,CA
+2026-01-28,/phonics-worksheets,phonics worksheets,491,3817,0.1286,4.59,organic_google,mobile,UK
+2026-01-28,/reading-comprehension-year-3,reading comprehension year 3,199,2743,0.0725,8.05,organic_google,mobile,CA
+2026-01-28,/science-experiments-kids,science experiments for kids,154,2361,0.0652,9.78,organic_google,mobile,UK
+2026-01-28,/spelling-activities,spelling activities,83,1791,0.0463,13.02,organic_google,desktop,UK
+2026-01-28,/times-tables-games,times tables games,168,2205,0.0762,8.65,organic_bing,mobile,AU
+2026-01-29,/classroom-display-ideas,classroom display ideas,61,1365,0.0447,14.62,organic_google,mobile,CA
+2026-01-29,/eyfs-resources,eyfs resources,220,3399,0.0647,6.79,organic_google,tablet,US
+2026-01-29,/home-learning-resources,home learning resources,587,5117,0.1147,5.13,organic_google,mobile,UK
+2026-01-29,/lesson-plans-english,english lesson plans,100,1924,0.052,10.38,organic_google,desktop,UK
+2026-01-29,/maths-activities-ks2,maths activities ks2,495,4070,0.1216,5.31,organic_google,desktop,UK
+2026-01-29,/phonics-worksheets,phonics worksheets,592,4448,0.1331,3.55,organic_google,mobile,US
+2026-01-29,/reading-comprehension-year-3,reading comprehension year 3,231,3204,0.0721,8.19,organic_google,mobile,UK
+2026-01-29,/science-experiments-kids,science experiments for kids,143,2164,0.0661,10.21,organic_google,mobile,UK
+2026-01-29,/spelling-activities,spelling activities,56,1724,0.0325,13.16,organic_google,desktop,UK
+2026-01-29,/times-tables-games,times tables games,109,2355,0.0463,8.82,organic_google,mobile,UK
+2026-01-30,/classroom-display-ideas,classroom display ideas,39,1290,0.0302,14.04,organic_google,desktop,UK
+2026-01-30,/eyfs-resources,eyfs resources,227,2548,0.0891,7.31,organic_google,mobile,UK
+2026-01-30,/home-learning-resources,home learning resources,657,5063,0.1298,3.71,organic_google,desktop,UK
+2026-01-30,/lesson-plans-english,english lesson plans,121,2263,0.0535,9.54,organic_google,desktop,US
+2026-01-30,/maths-activities-ks2,maths activities ks2,369,3820,0.0966,7.13,organic_google,mobile,CA
+2026-01-30,/phonics-worksheets,phonics worksheets,396,4331,0.0914,6.22,organic_google,desktop,UK
+2026-01-30,/reading-comprehension-year-3,reading comprehension year 3,245,2308,0.1062,7.58,organic_google,desktop,UK
+2026-01-30,/science-experiments-kids,science experiments for kids,122,2036,0.0599,9.32,organic_google,mobile,AU
+2026-01-30,/spelling-activities,spelling activities,51,1588,0.0321,13.49,organic_google,mobile,UK
+2026-01-30,/times-tables-games,times tables games,166,2299,0.0722,9.68,organic_bing,mobile,UK
+2026-01-31,/classroom-display-ideas,classroom display ideas,50,1025,0.0488,14.21,organic_bing,desktop,AU
+2026-01-31,/eyfs-resources,eyfs resources,219,2348,0.0933,7.19,organic_google,tablet,UK
+2026-01-31,/home-learning-resources,home learning resources,590,4552,0.1296,3.25,organic_google,tablet,UK
+2026-01-31,/lesson-plans-english,english lesson plans,128,1735,0.0738,10.84,organic_google,tablet,AU
+2026-01-31,/maths-activities-ks2,maths activities ks2,208,2515,0.0827,5.91,organic_bing,desktop,CA
+2026-01-31,/phonics-worksheets,phonics worksheets,405,3917,0.1034,4.96,organic_google,mobile,CA
+2026-01-31,/reading-comprehension-year-3,reading comprehension year 3,173,1867,0.0927,6.91,organic_google,mobile,UK
+2026-01-31,/science-experiments-kids,science experiments for kids,96,1572,0.0611,9.51,organic_google,mobile,UK
+2026-01-31,/spelling-activities,spelling activities,54,1700,0.0318,13.2,organic_google,mobile,UK
+2026-01-31,/times-tables-games,times tables games,124,1564,0.0793,8.82,organic_google,desktop,UK
+2026-02-01,/classroom-display-ideas,classroom display ideas,45,1173,0.0384,14.02,organic_google,desktop,UK
+2026-02-01,/eyfs-resources,eyfs resources,183,2480,0.0738,7.93,organic_bing,desktop,AU
+2026-02-01,/home-learning-resources,home learning resources,461,4020,0.1147,4.9,organic_yahoo,mobile,AU
+2026-02-01,/lesson-plans-english,english lesson plans,94,1863,0.0505,11.47,organic_google,desktop,UK
+2026-02-01,/maths-activities-ks2,math activity sheets,18,2100,0.0086,7.1,organic_google,desktop,UK
+2026-02-01,/maths-activities-ks2,maths activities ks2,420,3767,0.1115,5.98,organic_google,mobile,CA
+2026-02-01,/phonics-worksheets,free phonics sheets,22,2400,0.0092,6.8,organic_google,mobile,UK
+2026-02-01,/phonics-worksheets,phonics worksheets,408,3237,0.126,3.84,organic_google,mobile,UK
+2026-02-01,/reading-comprehension-year-3,reading comprehension year 3,261,2842,0.0918,8.25,organic_google,mobile,UK
+2026-02-01,/science-experiments-kids,science experiments for kids,99,1800,0.055,10.89,organic_google,mobile,US
+2026-02-01,/spelling-activities,spelling activities,59,1250,0.0472,10.99,organic_google,mobile,CA
+2026-02-01,/times-tables-games,times tables games,105,2020,0.052,9.92,organic_google,desktop,CA
+2026-02-02,/classroom-display-ideas,classroom display ideas,85,1625,0.0523,13.95,organic_google,mobile,US
+2026-02-02,/eyfs-resources,eyfs resources,188,3433,0.0548,8.75,organic_google,desktop,US
+2026-02-02,/home-learning-resources,home learning resources,650,5198,0.125,4.27,organic_google,desktop,UK
+2026-02-02,/lesson-plans-english,english lesson plans,127,1945,0.0653,10.31,organic_google,desktop,UK
+2026-02-02,/maths-activities-ks2,maths activities ks2,292,3655,0.0799,6.22,organic_google,desktop,AU
+2026-02-02,/phonics-worksheets,phonics worksheets,519,4212,0.1232,4.88,organic_bing,desktop,UK
+2026-02-02,/reading-comprehension-year-3,reading comprehension year 3,217,3014,0.072,8.55,organic_google,desktop,US
+2026-02-02,/science-experiments-kids,science experiments for kids,143,2216,0.0645,10.21,organic_google,mobile,UK
+2026-02-02,/spelling-activities,spelling activities,84,1973,0.0426,11.77,organic_bing,desktop,CA
+2026-02-02,/times-tables-games,times tables games,223,2797,0.0797,7.53,organic_google,mobile,UK
+2026-02-03,/classroom-display-ideas,classroom display ideas,54,1543,0.035,13.81,organic_google,desktop,UK
+2026-02-03,/eyfs-resources,eyfs resources,222,3091,0.0718,7.99,organic_bing,desktop,US
+2026-02-03,/home-learning-resources,home learning resources,774,5455,0.1419,3.55,organic_google,tablet,US
+2026-02-03,/lesson-plans-english,english lesson plans,52,2141,0.0243,10.83,organic_google,mobile,UK
+2026-02-03,/maths-activities-ks2,maths activities ks2,233,2841,0.082,6.21,organic_google,desktop,UK
+2026-02-03,/phonics-worksheets,phonics worksheets,486,4467,0.1088,5.16,organic_google,desktop,UK
+2026-02-03,/reading-comprehension-year-3,reading comprehension year 3,224,2771,0.0808,8.39,organic_google,desktop,US
+2026-02-03,/science-experiments-kids,science experiments for kids,102,2173,0.0469,9.07,organic_google,desktop,UK
+2026-02-03,/spelling-activities,spelling activities,116,1890,0.0614,12.27,organic_google,mobile,US
+2026-02-03,/times-tables-games,times tables games,126,2855,0.0441,9.86,organic_google,mobile,UK
+2026-02-04,/classroom-display-ideas,classroom display ideas,48,1377,0.0349,14.36,organic_google,tablet,UK
+2026-02-04,/eyfs-resources,eyfs resources,255,3123,0.0817,7.43,organic_google,desktop,UK
+2026-02-04,/home-learning-resources,home learning resources,587,4376,0.1341,4.4,organic_yahoo,mobile,UK
+2026-02-04,/lesson-plans-english,english lesson plans,115,2099,0.0548,10.58,organic_google,mobile,UK
+2026-02-04,/maths-activities-ks2,maths activities ks2,418,3415,0.1224,5.56,organic_google,desktop,CA
+2026-02-04,/phonics-worksheets,phonics worksheets,450,3993,0.1127,5.54,organic_google,desktop,UK
+2026-02-04,/reading-comprehension-year-3,reading comprehension year 3,251,2901,0.0865,7.3,organic_google,mobile,US
+2026-02-04,/science-experiments-kids,science experiments for kids,97,2387,0.0406,10.7,organic_bing,mobile,UK
+2026-02-04,/spelling-activities,spelling activities,69,1741,0.0396,12.23,organic_google,desktop,AU
+2026-02-04,/times-tables-games,times tables games,233,2810,0.0829,8.06,organic_google,mobile,UK
+2026-02-05,/classroom-display-ideas,classroom display ideas,85,1495,0.0569,14.44,organic_google,desktop,UK
+2026-02-05,/eyfs-resources,eyfs resources,341,3346,0.1019,6.99,organic_google,desktop,UK
+2026-02-05,/home-learning-resources,home learning resources,631,5307,0.1189,4.47,organic_google,desktop,US
+2026-02-05,/lesson-plans-english,english lesson plans,68,2157,0.0315,11.33,organic_google,mobile,UK
+2026-02-05,/maths-activities-ks2,maths activities ks2,367,3621,0.1014,5.21,organic_google,mobile,UK
+2026-02-05,/phonics-worksheets,phonics worksheets,397,3905,0.1017,5.44,organic_bing,tablet,CA
+2026-02-05,/reading-comprehension-year-3,reading comprehension year 3,234,2987,0.0783,7.08,organic_bing,mobile,UK
+2026-02-05,/science-experiments-kids,science experiments for kids,142,2079,0.0683,8.92,organic_bing,mobile,UK
+2026-02-05,/spelling-activities,spelling activities,69,1597,0.0432,12.33,organic_google,tablet,UK
+2026-02-05,/times-tables-games,times tables games,140,2312,0.0606,8.98,organic_google,desktop,UK
+2026-02-06,/classroom-display-ideas,classroom display ideas,57,1528,0.0373,14.78,organic_google,mobile,UK
+2026-02-06,/eyfs-resources,eyfs resources,322,3366,0.0957,7.09,organic_google,desktop,UK
+2026-02-06,/home-learning-resources,home learning resources,764,5873,0.1301,3.88,organic_google,mobile,UK
+2026-02-06,/lesson-plans-english,english lesson plans,48,1941,0.0247,12.17,organic_google,desktop,UK
+2026-02-06,/maths-activities-ks2,maths activities ks2,384,4010,0.0958,5.9,organic_google,mobile,US
+2026-02-06,/phonics-worksheets,phonics worksheets,398,3227,0.1233,4.71,organic_google,desktop,CA
+2026-02-06,/reading-comprehension-year-3,reading comprehension year 3,272,2980,0.0913,6.05,organic_google,desktop,UK
+2026-02-06,/science-experiments-kids,science experiments for kids,117,2484,0.0471,10.66,organic_bing,mobile,CA
+2026-02-06,/spelling-activities,spelling activities,94,1895,0.0496,11.84,organic_google,desktop,US
+2026-02-06,/times-tables-games,times tables games,152,2333,0.0652,9.97,organic_bing,desktop,UK
+2026-02-07,/classroom-display-ideas,classroom display ideas,37,1116,0.0332,13.45,organic_google,desktop,UK
+2026-02-07,/eyfs-resources,eyfs resources,281,2604,0.1079,6.43,organic_google,mobile,UK
+2026-02-07,/home-learning-resources,home learning resources,583,4764,0.1224,5.0,organic_google,mobile,AU
+2026-02-07,/lesson-plans-english,english lesson plans,99,1570,0.0631,11.89,organic_google,mobile,UK
+2026-02-07,/maths-activities-ks2,maths activities ks2,308,3306,0.0932,6.95,organic_google,desktop,UK
+2026-02-07,/phonics-worksheets,phonics worksheets,459,3621,0.1268,4.57,organic_google,desktop,CA
+2026-02-07,/reading-comprehension-year-3,reading comprehension year 3,181,2317,0.0781,8.46,organic_google,mobile,CA
+2026-02-07,/science-experiments-kids,science experiments for kids,79,1728,0.0457,9.98,organic_bing,mobile,AU
+2026-02-07,/spelling-activities,spelling activities,51,1508,0.0338,11.79,organic_google,mobile,UK
+2026-02-07,/times-tables-games,times tables games,100,1867,0.0536,10.46,organic_bing,desktop,AU
+2026-02-08,/classroom-display-ideas,classroom display ideas,40,1272,0.0314,14.01,organic_google,mobile,UK
+2026-02-08,/eyfs-resources,eyfs resources,213,2421,0.088,6.34,organic_google,desktop,UK
+2026-02-08,/home-learning-resources,home learning resources,562,4150,0.1354,4.07,organic_google,mobile,US
+2026-02-08,/lesson-plans-english,english lesson plans,65,1868,0.0348,10.74,organic_bing,desktop,AU
+2026-02-08,/maths-activities-ks2,math activity sheets,18,2100,0.0086,7.1,organic_google,desktop,UK
+2026-02-08,/maths-activities-ks2,maths activities ks2,289,2607,0.1109,6.26,organic_google,desktop,UK
+2026-02-08,/phonics-worksheets,free phonics sheets,22,2400,0.0092,6.8,organic_google,mobile,UK
+2026-02-08,/phonics-worksheets,phonics worksheets,328,3591,0.0913,6.22,organic_google,desktop,UK
+2026-02-08,/reading-comprehension-year-3,reading comprehension year 3,164,2350,0.0698,8.42,organic_google,mobile,US
+2026-02-08,/science-experiments-kids,science experiments for kids,131,1873,0.0699,10.42,organic_google,desktop,UK
+2026-02-08,/spelling-activities,spelling activities,61,1366,0.0447,12.19,organic_google,desktop,UK
+2026-02-08,/times-tables-games,times tables games,142,2118,0.067,9.95,organic_google,desktop,UK
+2026-02-09,/classroom-display-ideas,classroom display ideas,73,1560,0.0468,12.28,organic_google,mobile,AU
+2026-02-09,/eyfs-resources,eyfs resources,306,3307,0.0925,7.12,organic_google,desktop,UK
+2026-02-09,/home-learning-resources,home learning resources,613,5433,0.1128,4.65,organic_google,desktop,UK
+2026-02-09,/lesson-plans-english,english lesson plans,103,2129,0.0484,10.44,organic_google,desktop,UK
+2026-02-09,/maths-activities-ks2,maths activities ks2,354,3258,0.1087,6.37,organic_google,mobile,UK
+2026-02-09,/phonics-worksheets,phonics worksheets,439,4165,0.1054,6.29,organic_google,tablet,AU
+2026-02-09,/reading-comprehension-year-3,reading comprehension year 3,280,3098,0.0904,8.61,organic_google,mobile,UK
+2026-02-09,/science-experiments-kids,science experiments for kids,139,2203,0.0631,10.2,organic_google,mobile,UK
+2026-02-09,/spelling-activities,spelling activities,62,1847,0.0336,12.43,organic_google,desktop,UK
+2026-02-09,/times-tables-games,times tables games,151,2383,0.0634,9.43,organic_google,mobile,UK
+2026-02-10,/classroom-display-ideas,classroom display ideas,66,1419,0.0465,11.85,organic_google,mobile,UK
+2026-02-10,/eyfs-resources,eyfs resources,331,3224,0.1027,7.09,organic_google,desktop,UK
+2026-02-10,/home-learning-resources,home learning resources,746,4786,0.1559,3.11,organic_bing,desktop,UK
+2026-02-10,/lesson-plans-english,english lesson plans,72,1738,0.0414,11.81,organic_google,mobile,UK
+2026-02-10,/maths-activities-ks2,maths activities ks2,248,3553,0.0698,7.47,organic_google,desktop,US
+2026-02-10,/phonics-worksheets,phonics worksheets,598,4468,0.1338,3.88,organic_bing,mobile,AU
+2026-02-10,/reading-comprehension-year-3,reading comprehension year 3,174,2766,0.0629,8.44,organic_google,mobile,US
+2026-02-10,/science-experiments-kids,science experiments for kids,118,1950,0.0605,11.33,organic_google,mobile,UK
+2026-02-10,/spelling-activities,spelling activities,88,1779,0.0495,11.67,organic_google,desktop,AU
+2026-02-10,/times-tables-games,times tables games,149,2471,0.0603,8.88,organic_google,desktop,CA
+2026-02-11,/classroom-display-ideas,classroom display ideas,71,1592,0.0446,14.43,organic_google,mobile,UK
+2026-02-11,/eyfs-resources,eyfs resources,336,3413,0.0984,6.78,organic_google,tablet,UK
+2026-02-11,/home-learning-resources,home learning resources,635,6118,0.1038,4.97,organic_google,mobile,UK
+2026-02-11,/lesson-plans-english,english lesson plans,115,2486,0.0463,12.12,organic_google,mobile,UK
+2026-02-11,/maths-activities-ks2,maths activities ks2,371,3746,0.099,5.96,organic_google,desktop,AU
+2026-02-11,/phonics-worksheets,phonics worksheets,540,4775,0.1131,5.29,organic_google,desktop,AU
+2026-02-11,/reading-comprehension-year-3,reading comprehension year 3,215,2802,0.0767,7.57,organic_yahoo,mobile,UK
+2026-02-11,/science-experiments-kids,science experiments for kids,122,2576,0.0474,10.97,organic_google,mobile,US
+2026-02-11,/spelling-activities,spelling activities,54,1973,0.0274,13.52,organic_google,mobile,US
+2026-02-11,/times-tables-games,times tables games,169,2797,0.0604,8.0,organic_google,desktop,UK
+2026-02-12,/classroom-display-ideas,classroom display ideas,39,1420,0.0275,13.92,organic_google,desktop,UK
+2026-02-12,/eyfs-resources,eyfs resources,372,3310,0.1124,5.86,organic_google,desktop,US
+2026-02-12,/home-learning-resources,home learning resources,716,5247,0.1365,3.23,organic_google,desktop,UK
+2026-02-12,/lesson-plans-english,english lesson plans,92,2152,0.0428,11.54,organic_yahoo,mobile,AU
+2026-02-12,/maths-activities-ks2,maths activities ks2,449,3994,0.1124,5.86,organic_google,mobile,UK
+2026-02-12,/phonics-worksheets,phonics worksheets,489,4779,0.1023,5.68,organic_google,desktop,UK
+2026-02-12,/reading-comprehension-year-3,reading comprehension year 3,198,2491,0.0795,8.59,organic_google,mobile,UK
+2026-02-12,/science-experiments-kids,science experiments for kids,106,2260,0.0469,10.59,organic_google,desktop,AU
+2026-02-12,/spelling-activities,spelling activities,90,1719,0.0524,12.4,organic_google,mobile,CA
+2026-02-12,/times-tables-games,times tables games,229,2632,0.087,8.24,organic_google,desktop,UK
+2026-02-13,/classroom-display-ideas,classroom display ideas,75,1486,0.0505,12.61,organic_google,desktop,UK
+2026-02-13,/eyfs-resources,eyfs resources,310,3004,0.1032,5.82,organic_yahoo,tablet,US
+2026-02-13,/home-learning-resources,home learning resources,486,4543,0.107,4.71,organic_google,mobile,US
+2026-02-13,/lesson-plans-english,english lesson plans,132,2203,0.0599,11.42,organic_google,mobile,AU
+2026-02-13,/maths-activities-ks2,maths activities ks2,369,4167,0.0886,5.81,organic_google,mobile,CA
+2026-02-13,/phonics-worksheets,phonics worksheets,574,4724,0.1215,5.86,organic_google,mobile,UK
+2026-02-13,/reading-comprehension-year-3,reading comprehension year 3,184,3007,0.0612,9.38,organic_google,mobile,UK
+2026-02-13,/science-experiments-kids,science experiments for kids,120,2403,0.0499,9.38,organic_google,desktop,US
+2026-02-13,/spelling-activities,spelling activities,31,1696,0.0183,14.75,organic_google,desktop,CA
+2026-02-13,/times-tables-games,times tables games,127,2420,0.0525,9.0,organic_google,mobile,US
+2026-02-14,/classroom-display-ideas,classroom display ideas,40,1118,0.0358,13.32,organic_google,desktop,AU
+2026-02-14,/eyfs-resources,eyfs resources,221,2566,0.0861,7.27,organic_bing,desktop,UK
+2026-02-14,/home-learning-resources,home learning resources,598,4697,0.1273,4.41,organic_google,mobile,AU
+2026-02-14,/lesson-plans-english,english lesson plans,63,1550,0.0406,11.7,organic_google,desktop,UK
+2026-02-14,/maths-activities-ks2,maths activities ks2,333,3095,0.1076,6.26,organic_google,desktop,UK
+2026-02-14,/phonics-worksheets,phonics worksheets,536,3932,0.1363,4.28,organic_google,tablet,UK
+2026-02-14,/reading-comprehension-year-3,reading comprehension year 3,136,2172,0.0626,7.54,organic_google,desktop,UK
+2026-02-14,/science-experiments-kids,science experiments for kids,133,1839,0.0723,9.74,organic_google,desktop,AU
+2026-02-14,/spelling-activities,spelling activities,71,1690,0.042,12.53,organic_google,desktop,US
+2026-02-14,/times-tables-games,times tables games,152,2047,0.0743,7.64,organic_google,desktop,UK
+2026-02-15,/classroom-display-ideas,classroom display ideas,41,1160,0.0353,14.24,organic_google,mobile,UK
+2026-02-15,/eyfs-resources,eyfs resources,159,2215,0.0718,6.58,organic_google,desktop,UK
+2026-02-15,/home-learning-resources,home learning resources,653,3815,0.1712,2.34,organic_google,mobile,AU
+2026-02-15,/lesson-plans-english,english lesson plans,110,1714,0.0642,10.57,organic_google,mobile,AU
+2026-02-15,/maths-activities-ks2,math activity sheets,18,2100,0.0086,7.1,organic_google,desktop,UK
+2026-02-15,/maths-activities-ks2,maths activities ks2,223,3478,0.0641,6.14,organic_google,desktop,AU
+2026-02-15,/phonics-worksheets,free phonics sheets,22,2400,0.0092,6.8,organic_google,mobile,UK
+2026-02-15,/phonics-worksheets,phonics worksheets,428,4235,0.1011,5.98,organic_yahoo,mobile,UK
+2026-02-15,/reading-comprehension-year-3,reading comprehension year 3,196,2404,0.0815,7.1,organic_google,desktop,UK
+2026-02-15,/science-experiments-kids,science experiments for kids,123,1991,0.0618,9.86,organic_yahoo,mobile,UK
+2026-02-15,/spelling-activities,spelling activities,62,1579,0.0393,11.52,organic_bing,desktop,UK
+2026-02-15,/times-tables-games,times tables games,199,2616,0.0761,8.29,organic_google,desktop,UK
+2026-02-16,/classroom-display-ideas,classroom display ideas,56,1544,0.0363,14.27,organic_google,desktop,CA
+2026-02-16,/eyfs-resources,eyfs resources,208,3053,0.0681,8.93,organic_bing,mobile,UK
+2026-02-16,/home-learning-resources,home learning resources,697,4985,0.1398,3.99,organic_google,desktop,UK
+2026-02-16,/lesson-plans-english,english lesson plans,106,2070,0.0512,10.49,organic_google,mobile,UK
+2026-02-16,/maths-activities-ks2,maths activities ks2,526,4216,0.1248,5.08,organic_google,desktop,UK
+2026-02-16,/phonics-worksheets,phonics worksheets,551,4447,0.1239,4.94,organic_google,mobile,UK
+2026-02-16,/reading-comprehension-year-3,reading comprehension year 3,257,2842,0.0904,7.69,organic_google,desktop,UK
+2026-02-16,/science-experiments-kids,science experiments for kids,163,2609,0.0625,9.71,organic_google,mobile,UK
+2026-02-16,/spelling-activities,spelling activities,90,1734,0.0519,11.34,organic_google,mobile,US
+2026-02-16,/times-tables-games,times tables games,136,2488,0.0547,9.2,organic_google,desktop,UK
+2026-02-17,/classroom-display-ideas,classroom display ideas,37,1634,0.0226,14.14,organic_google,desktop,CA
+2026-02-17,/eyfs-resources,eyfs resources,285,3278,0.0869,7.66,organic_google,mobile,AU
+2026-02-17,/home-learning-resources,home learning resources,583,5666,0.1029,5.03,organic_google,desktop,UK
+2026-02-17,/lesson-plans-english,english lesson plans,70,1815,0.0386,11.1,organic_bing,desktop,US
+2026-02-17,/maths-activities-ks2,maths activities ks2,309,3329,0.0928,6.44,organic_google,desktop,UK
+2026-02-17,/phonics-worksheets,phonics worksheets,437,4014,0.1089,4.63,organic_bing,desktop,UK
+2026-02-17,/reading-comprehension-year-3,reading comprehension year 3,200,2998,0.0667,7.21,organic_bing,mobile,CA
+2026-02-17,/science-experiments-kids,science experiments for kids,107,2378,0.045,11.57,organic_google,mobile,UK
+2026-02-17,/spelling-activities,spelling activities,75,2108,0.0356,12.95,organic_google,desktop,AU
+2026-02-17,/times-tables-games,times tables games,185,2225,0.0831,8.12,organic_google,desktop,UK
+2026-02-18,/classroom-display-ideas,classroom display ideas,76,1456,0.0522,12.75,organic_google,desktop,UK
+2026-02-18,/eyfs-resources,eyfs resources,355,3328,0.1067,5.27,organic_google,mobile,UK
+2026-02-18,/home-learning-resources,home learning resources,757,5331,0.142,3.66,organic_google,desktop,UK
+2026-02-18,/lesson-plans-english,english lesson plans,94,2062,0.0456,12.38,organic_google,desktop,UK
+2026-02-18,/maths-activities-ks2,maths activities ks2,275,3232,0.0851,6.01,organic_google,desktop,AU
+2026-02-18,/phonics-worksheets,phonics worksheets,621,5195,0.1195,4.95,organic_google,desktop,UK
+2026-02-18,/reading-comprehension-year-3,reading comprehension year 3,264,2821,0.0936,7.42,organic_google,desktop,AU
+2026-02-18,/science-experiments-kids,science experiments for kids,106,2414,0.0439,11.77,organic_google,desktop,US
+2026-02-18,/spelling-activities,spelling activities,68,1859,0.0366,12.69,organic_google,desktop,AU
+2026-02-18,/times-tables-games,times tables games,124,2540,0.0488,8.37,organic_google,tablet,UK
+2026-02-19,/classroom-display-ideas,classroom display ideas,32,1396,0.0229,15.2,organic_bing,desktop,UK
+2026-02-19,/eyfs-resources,eyfs resources,235,3515,0.0669,8.3,organic_google,desktop,AU
+2026-02-19,/home-learning-resources,home learning resources,628,5766,0.1089,5.23,organic_google,desktop,AU
+2026-02-19,/lesson-plans-english,english lesson plans,89,1946,0.0457,11.06,organic_google,mobile,UK
+2026-02-19,/maths-activities-ks2,maths activities ks2,426,3764,0.1132,6.0,organic_google,mobile,UK
+2026-02-19,/phonics-worksheets,phonics worksheets,538,4210,0.1278,4.04,organic_bing,mobile,UK
+2026-02-19,/reading-comprehension-year-3,reading comprehension year 3,202,2798,0.0722,9.03,organic_google,mobile,UK
+2026-02-19,/science-experiments-kids,science experiments for kids,189,2602,0.0726,9.65,organic_google,tablet,UK
+2026-02-19,/spelling-activities,spelling activities,75,1905,0.0394,11.38,organic_google,desktop,UK
+2026-02-19,/times-tables-games,times tables games,107,2501,0.0428,9.54,organic_google,desktop,UK
+2026-02-20,/classroom-display-ideas,classroom display ideas,57,1431,0.0398,13.75,organic_google,desktop,UK
+2026-02-20,/eyfs-resources,eyfs resources,320,3020,0.106,6.18,organic_bing,desktop,UK
+2026-02-20,/home-learning-resources,home learning resources,571,4792,0.1192,4.48,organic_bing,mobile,UK
+2026-02-20,/lesson-plans-english,english lesson plans,108,2025,0.0533,11.49,organic_google,desktop,UK
+2026-02-20,/maths-activities-ks2,maths activities ks2,301,3445,0.0874,7.0,organic_google,tablet,UK
+2026-02-20,/phonics-worksheets,phonics worksheets,461,4272,0.1079,5.07,organic_google,desktop,UK
+2026-02-20,/reading-comprehension-year-3,reading comprehension year 3,218,3103,0.0703,7.88,organic_google,mobile,CA
+2026-02-20,/science-experiments-kids,science experiments for kids,94,2346,0.0401,9.67,organic_google,mobile,UK
+2026-02-20,/spelling-activities,spelling activities,126,2073,0.0608,11.61,organic_google,mobile,UK
+2026-02-20,/times-tables-games,times tables games,201,2661,0.0755,7.41,organic_bing,desktop,UK
+2026-02-21,/classroom-display-ideas,classroom display ideas,50,1291,0.0387,13.83,organic_google,desktop,UK
+2026-02-21,/eyfs-resources,eyfs resources,259,2640,0.0981,5.53,organic_google,mobile,UK
+2026-02-21,/home-learning-resources,home learning resources,506,4566,0.1108,4.98,organic_google,mobile,UK
+2026-02-21,/lesson-plans-english,english lesson plans,75,2035,0.0369,11.73,organic_google,mobile,UK
+2026-02-21,/maths-activities-ks2,maths activities ks2,306,3199,0.0957,7.09,organic_google,mobile,US
+2026-02-21,/phonics-worksheets,phonics worksheets,480,4098,0.1171,4.7,organic_yahoo,desktop,CA
+2026-02-21,/reading-comprehension-year-3,reading comprehension year 3,216,2559,0.0844,8.53,organic_google,mobile,UK
+2026-02-21,/science-experiments-kids,science experiments for kids,108,1827,0.0591,10.92,organic_google,mobile,UK
+2026-02-21,/spelling-activities,spelling activities,68,1389,0.049,12.87,organic_google,mobile,UK
+2026-02-21,/times-tables-games,times tables games,115,2157,0.0533,9.53,organic_google,mobile,UK
+2026-02-22,/classroom-display-ideas,classroom display ideas,31,1147,0.027,13.77,organic_google,desktop,CA
+2026-02-22,/eyfs-resources,eyfs resources,219,2526,0.0867,7.09,organic_google,mobile,CA
+2026-02-22,/home-learning-resources,home learning resources,637,4359,0.1461,3.98,organic_google,desktop,US
+2026-02-22,/lesson-plans-english,english lesson plans,81,1648,0.0492,9.96,organic_google,mobile,AU
+2026-02-22,/maths-activities-ks2,math activity sheets,18,2100,0.0086,7.1,organic_google,desktop,UK
+2026-02-22,/maths-activities-ks2,maths activities ks2,282,3191,0.0884,6.01,organic_google,desktop,UK
+2026-02-22,/phonics-worksheets,free phonics sheets,22,2400,0.0092,6.8,organic_google,mobile,UK
+2026-02-22,/phonics-worksheets,phonics worksheets,335,2922,0.1146,6.3,organic_google,desktop,UK
+2026-02-22,/reading-comprehension-year-3,reading comprehension year 3,238,2478,0.096,7.19,organic_google,mobile,UK
+2026-02-22,/science-experiments-kids,science experiments for kids,123,1792,0.0686,10.43,organic_google,desktop,UK
+2026-02-22,/spelling-activities,spelling activities,50,1600,0.0312,14.51,organic_google,mobile,UK
+2026-02-22,/times-tables-games,times tables games,216,2439,0.0886,7.42,organic_google,desktop,AU
+2026-02-23,/classroom-display-ideas,classroom display ideas,50,1655,0.0302,12.2,organic_bing,desktop,UK
+2026-02-23,/eyfs-resources,eyfs resources,250,3405,0.0734,6.63,organic_google,mobile,UK
+2026-02-23,/home-learning-resources,home learning resources,693,5738,0.1208,4.27,organic_google,desktop,US
+2026-02-23,/lesson-plans-english,english lesson plans,161,2175,0.074,10.58,organic_google,mobile,UK
+2026-02-23,/maths-activities-ks2,maths activities ks2,350,3976,0.088,6.86,organic_google,mobile,UK
+2026-02-23,/phonics-worksheets,phonics worksheets,586,4851,0.1208,4.37,organic_google,desktop,UK
+2026-02-23,/reading-comprehension-year-3,reading comprehension year 3,242,3409,0.071,7.59,organic_google,desktop,UK
+2026-02-23,/science-experiments-kids,science experiments for kids,155,2195,0.0706,9.34,organic_google,mobile,US
+2026-02-23,/spelling-activities,spelling activities,88,1776,0.0495,12.18,organic_google,mobile,UK
+2026-02-23,/times-tables-games,times tables games,123,2565,0.048,9.53,organic_google,desktop,UK
+2026-02-24,/classroom-display-ideas,classroom display ideas,52,1433,0.0363,14.15,organic_google,mobile,CA
+2026-02-24,/eyfs-resources,eyfs resources,179,2973,0.0602,8.96,organic_google,desktop,UK
+2026-02-24,/home-learning-resources,home learning resources,639,5269,0.1213,4.47,organic_google,desktop,US
+2026-02-24,/lesson-plans-english,english lesson plans,95,2053,0.0463,11.96,organic_google,mobile,US
+2026-02-24,/maths-activities-ks2,maths activities ks2,533,4120,0.1294,5.31,organic_google,mobile,CA
+2026-02-24,/phonics-worksheets,phonics worksheets,595,4343,0.137,3.35,organic_google,desktop,AU
+2026-02-24,/reading-comprehension-year-3,reading comprehension year 3,178,2588,0.0688,7.81,organic_google,mobile,UK
+2026-02-24,/science-experiments-kids,science experiments for kids,99,2308,0.0429,10.84,organic_google,desktop,UK
+2026-02-24,/spelling-activities,spelling activities,74,1741,0.0425,13.02,organic_google,desktop,UK
+2026-02-24,/times-tables-games,times tables games,241,2697,0.0894,7.52,organic_google,mobile,UK
+2026-02-25,/classroom-display-ideas,classroom display ideas,65,1619,0.0401,12.69,organic_google,tablet,US
+2026-02-25,/eyfs-resources,eyfs resources,364,3035,0.1199,5.78,organic_bing,mobile,US
+2026-02-25,/home-learning-resources,home learning resources,575,5019,0.1146,4.88,organic_google,desktop,UK
+2026-02-25,/lesson-plans-english,english lesson plans,85,2070,0.0411,11.1,organic_google,mobile,UK
+2026-02-25,/maths-activities-ks2,maths activities ks2,362,3781,0.0957,7.17,organic_google,mobile,US
+2026-02-25,/phonics-worksheets,phonics worksheets,516,4116,0.1254,4.81,organic_google,desktop,UK
+2026-02-25,/reading-comprehension-year-3,reading comprehension year 3,227,3090,0.0735,9.65,organic_google,desktop,US
+2026-02-25,/science-experiments-kids,science experiments for kids,117,2382,0.0491,8.2,organic_google,desktop,UK
+2026-02-25,/spelling-activities,spelling activities,72,2150,0.0335,12.78,organic_google,desktop,UK
+2026-02-25,/times-tables-games,times tables games,192,2643,0.0726,8.03,organic_google,desktop,UK
+2026-02-26,/classroom-display-ideas,classroom display ideas,16,1459,0.011,16.06,organic_google,desktop,US
+2026-02-26,/eyfs-resources,eyfs resources,312,3427,0.091,7.5,organic_google,mobile,CA
+2026-02-26,/home-learning-resources,home learning resources,703,5200,0.1352,3.39,organic_google,mobile,US
+2026-02-26,/lesson-plans-english,english lesson plans,101,2077,0.0486,11.13,organic_google,mobile,UK
+2026-02-26,/maths-activities-ks2,maths activities ks2,302,3681,0.082,6.61,organic_google,desktop,UK
+2026-02-26,/phonics-worksheets,phonics worksheets,679,4517,0.1503,2.89,organic_google,desktop,UK
+2026-02-26,/reading-comprehension-year-3,reading comprehension year 3,239,2636,0.0907,7.05,organic_google,desktop,UK
+2026-02-26,/science-experiments-kids,science experiments for kids,133,2420,0.055,10.43,organic_google,desktop,UK
+2026-02-26,/spelling-activities,spelling activities,42,2022,0.0208,11.37,organic_google,mobile,UK
+2026-02-26,/times-tables-games,times tables games,199,2476,0.0804,8.52,organic_google,desktop,UK
+2026-02-27,/classroom-display-ideas,classroom display ideas,44,1660,0.0265,14.52,organic_google,desktop,AU
+2026-02-27,/eyfs-resources,eyfs resources,295,3110,0.0949,6.29,organic_google,mobile,UK
+2026-02-27,/home-learning-resources,home learning resources,697,5768,0.1208,3.7,organic_google,mobile,AU
+2026-02-27,/lesson-plans-english,english lesson plans,145,2444,0.0593,9.81,organic_google,desktop,AU
+2026-02-27,/maths-activities-ks2,maths activities ks2,300,3146,0.0954,6.3,organic_google,mobile,UK
+2026-02-27,/phonics-worksheets,phonics worksheets,662,4658,0.1421,4.79,organic_google,desktop,UK
+2026-02-27,/reading-comprehension-year-3,reading comprehension year 3,236,2849,0.0828,8.14,organic_google,mobile,UK
+2026-02-27,/science-experiments-kids,science experiments for kids,127,2433,0.0522,8.73,organic_google,desktop,UK
+2026-02-27,/spelling-activities,spelling activities,70,2015,0.0347,13.25,organic_google,mobile,US
+2026-02-27,/times-tables-games,times tables games,188,2597,0.0724,9.12,organic_google,desktop,UK
+2026-02-28,/classroom-display-ideas,classroom display ideas,32,1395,0.0229,14.79,organic_bing,desktop,CA
+2026-02-28,/eyfs-resources,eyfs resources,279,2862,0.0975,7.42,organic_google,mobile,UK
+2026-02-28,/home-learning-resources,home learning resources,551,4138,0.1332,3.91,organic_google,desktop,US
+2026-02-28,/lesson-plans-english,english lesson plans,96,1643,0.0584,10.7,organic_bing,mobile,US
+2026-02-28,/maths-activities-ks2,maths activities ks2,372,3322,0.112,5.64,organic_yahoo,desktop,UK
+2026-02-28,/phonics-worksheets,phonics worksheets,443,4102,0.108,4.35,organic_google,tablet,US
+2026-02-28,/reading-comprehension-year-3,reading comprehension year 3,165,2629,0.0628,8.71,organic_google,desktop,AU
+2026-02-28,/science-experiments-kids,science experiments for kids,104,1661,0.0626,9.27,organic_google,desktop,UK
+2026-02-28,/spelling-activities,spelling activities,45,1545,0.0291,12.41,organic_google,mobile,UK
+2026-02-28,/times-tables-games,times tables games,90,1822,0.0494,10.07,organic_bing,mobile,UK
+2026-03-01,/classroom-display-ideas,classroom display ideas,33,1295,0.0255,14.41,organic_google,desktop,UK
+2026-03-01,/eyfs-resources,eyfs resources,321,2720,0.118,6.31,organic_google,mobile,US
+2026-03-01,/home-learning-resources,home learning resources,650,5189,0.1253,4.82,organic_google,mobile,US
+2026-03-01,/lesson-plans-english,english lesson plans,83,1844,0.045,9.91,organic_google,desktop,AU
+2026-03-01,/maths-activities-ks2,math activity sheets,18,2100,0.0086,7.1,organic_google,desktop,UK
+2026-03-01,/maths-activities-ks2,maths activities ks2,281,3152,0.0891,7.04,organic_google,desktop,US
+2026-03-01,/phonics-worksheets,free phonics sheets,22,2400,0.0092,6.8,organic_google,mobile,UK
+2026-03-01,/phonics-worksheets,phonics worksheets,398,3839,0.1037,5.44,organic_google,desktop,US
+2026-03-01,/reading-comprehension-year-3,reading comprehension year 3,149,2621,0.0568,8.85,organic_bing,mobile,UK
+2026-03-01,/science-experiments-kids,science experiments for kids,113,2277,0.0496,9.62,organic_google,mobile,CA
+2026-03-01,/spelling-activities,spelling activities,63,1463,0.0431,12.32,organic_google,desktop,UK
+2026-03-01,/times-tables-games,times tables games,169,2538,0.0666,9.06,organic_google,desktop,UK
+2026-03-02,/classroom-display-ideas,classroom display ideas,47,1454,0.0323,13.42,organic_bing,desktop,UK
+2026-03-02,/eyfs-resources,eyfs resources,293,3596,0.0815,8.16,organic_google,desktop,CA
+2026-03-02,/home-learning-resources,home learning resources,662,5748,0.1152,5.52,organic_yahoo,desktop,CA
+2026-03-02,/lesson-plans-english,english lesson plans,138,2212,0.0624,10.58,organic_google,desktop,UK
+2026-03-02,/maths-activities-ks2,maths activities ks2,397,4029,0.0985,5.97,organic_google,mobile,UK
+2026-03-02,/phonics-worksheets,phonics worksheets,551,4252,0.1296,3.87,organic_google,mobile,AU
+2026-03-02,/reading-comprehension-year-3,reading comprehension year 3,220,3051,0.0721,7.74,organic_google,mobile,UK
+2026-03-02,/science-experiments-kids,science experiments for kids,179,2593,0.069,8.9,organic_google,desktop,UK
+2026-03-02,/spelling-activities,spelling activities,83,2011,0.0413,11.24,organic_google,mobile,CA
+2026-03-02,/times-tables-games,times tables games,245,2992,0.0819,8.83,organic_yahoo,mobile,CA
+2026-03-03,/classroom-display-ideas,classroom display ideas,70,1524,0.0459,13.65,organic_google,desktop,UK
+2026-03-03,/eyfs-resources,eyfs resources,290,3459,0.0838,6.49,organic_google,desktop,UK
+2026-03-03,/home-learning-resources,home learning resources,700,5336,0.1312,3.81,organic_google,desktop,UK
+2026-03-03,/lesson-plans-english,english lesson plans,85,2312,0.0368,12.05,organic_google,mobile,UK
+2026-03-03,/maths-activities-ks2,maths activities ks2,428,3897,0.1098,6.38,organic_bing,mobile,AU
+2026-03-03,/phonics-worksheets,phonics worksheets,516,4989,0.1034,5.39,organic_google,desktop,CA
+2026-03-03,/reading-comprehension-year-3,reading comprehension year 3,245,3201,0.0765,7.41,organic_google,mobile,US
+2026-03-03,/science-experiments-kids,science experiments for kids,145,2494,0.0581,10.53,organic_google,mobile,UK
+2026-03-03,/spelling-activities,spelling activities,50,2014,0.0248,12.99,organic_google,desktop,UK
+2026-03-03,/times-tables-games,times tables games,135,2585,0.0522,9.13,organic_google,desktop,UK
+2026-03-04,/classroom-display-ideas,classroom display ideas,67,1791,0.0374,14.13,organic_google,mobile,AU
+2026-03-04,/eyfs-resources,eyfs resources,296,3055,0.0969,6.15,organic_google,mobile,UK
+2026-03-04,/home-learning-resources,home learning resources,597,6213,0.0961,5.54,organic_google,desktop,UK
+2026-03-04,/lesson-plans-english,english lesson plans,95,2034,0.0467,11.24,organic_google,mobile,UK
+2026-03-04,/maths-activities-ks2,maths activities ks2,388,4002,0.097,5.74,organic_google,desktop,UK
+2026-03-04,/phonics-worksheets,phonics worksheets,680,5375,0.1265,4.74,organic_google,desktop,US
+2026-03-04,/reading-comprehension-year-3,reading comprehension year 3,297,3263,0.091,7.45,organic_google,mobile,UK
+2026-03-04,/science-experiments-kids,science experiments for kids,118,2671,0.0442,11.41,organic_google,mobile,CA
+2026-03-04,/spelling-activities,spelling activities,75,2218,0.0338,12.62,organic_google,mobile,UK
+2026-03-04,/times-tables-games,times tables games,202,2768,0.073,8.8,organic_google,mobile,UK
+2026-03-05,/classroom-display-ideas,classroom display ideas,73,1774,0.0411,12.65,organic_google,mobile,UK
+2026-03-05,/eyfs-resources,eyfs resources,245,3636,0.0674,7.6,organic_google,mobile,UK
+2026-03-05,/home-learning-resources,home learning resources,742,5680,0.1306,3.74,organic_google,desktop,US
+2026-03-05,/lesson-plans-english,english lesson plans,151,2281,0.0662,11.25,organic_google,desktop,UK
+2026-03-05,/maths-activities-ks2,maths activities ks2,482,3719,0.1296,4.13,organic_google,desktop,UK
+2026-03-05,/phonics-worksheets,phonics worksheets,699,5515,0.1267,5.24,organic_google,desktop,US
+2026-03-05,/reading-comprehension-year-3,reading comprehension year 3,173,3443,0.0502,8.63,organic_google,desktop,AU
+2026-03-05,/science-experiments-kids,science experiments for kids,158,2711,0.0583,9.9,organic_bing,desktop,UK
+2026-03-05,/spelling-activities,spelling activities,113,2062,0.0548,10.8,organic_google,tablet,US
+2026-03-05,/times-tables-games,times tables games,154,2915,0.0528,9.81,organic_google,desktop,UK
+2026-03-06,/classroom-display-ideas,classroom display ideas,38,1469,0.0259,13.01,organic_google,desktop,UK
+2026-03-06,/eyfs-resources,eyfs resources,277,3494,0.0793,6.9,organic_google,desktop,UK
+2026-03-06,/home-learning-resources,home learning resources,673,6758,0.0996,5.2,organic_google,mobile,CA
+2026-03-06,/lesson-plans-english,english lesson plans,98,2065,0.0475,10.43,organic_google,mobile,UK
+2026-03-06,/maths-activities-ks2,maths activities ks2,205,3913,0.0524,8.2,organic_google,desktop,AU
+2026-03-06,/phonics-worksheets,phonics worksheets,572,5001,0.1144,5.06,organic_google,desktop,US
+2026-03-06,/reading-comprehension-year-3,reading comprehension year 3,244,3219,0.0758,7.94,organic_google,mobile,UK
+2026-03-06,/science-experiments-kids,science experiments for kids,155,2979,0.052,10.5,organic_google,desktop,UK
+2026-03-06,/spelling-activities,spelling activities,80,2160,0.037,12.13,organic_google,desktop,UK
+2026-03-06,/times-tables-games,times tables games,172,2924,0.0588,9.48,organic_google,mobile,US
+2026-03-07,/classroom-display-ideas,classroom display ideas,32,1374,0.0233,14.06,organic_bing,desktop,AU
+2026-03-07,/eyfs-resources,eyfs resources,143,2484,0.0576,8.1,organic_google,mobile,CA
+2026-03-07,/home-learning-resources,home learning resources,501,4850,0.1033,5.01,organic_google,desktop,UK
+2026-03-07,/lesson-plans-english,english lesson plans,120,2169,0.0553,10.06,organic_yahoo,desktop,UK
+2026-03-07,/maths-activities-ks2,maths activities ks2,241,3552,0.0678,7.96,organic_bing,mobile,UK
+2026-03-07,/phonics-worksheets,phonics worksheets,504,4355,0.1157,4.23,organic_bing,desktop,UK
+2026-03-07,/reading-comprehension-year-3,reading comprehension year 3,202,2589,0.078,7.29,organic_bing,mobile,AU
+2026-03-07,/science-experiments-kids,science experiments for kids,110,1922,0.0572,9.74,organic_google,mobile,UK
+2026-03-07,/spelling-activities,spelling activities,49,1563,0.0313,13.48,organic_google,desktop,AU
+2026-03-07,/times-tables-games,times tables games,155,2555,0.0607,8.68,organic_google,mobile,US
+2026-03-08,/classroom-display-ideas,classroom display ideas,62,1519,0.0408,12.51,organic_google,mobile,UK
+2026-03-08,/eyfs-resources,eyfs resources,293,2754,0.1064,6.53,organic_google,desktop,US
+2026-03-08,/home-learning-resources,home learning resources,606,4752,0.1275,4.53,organic_google,desktop,US
+2026-03-08,/lesson-plans-english,english lesson plans,88,1903,0.0462,12.07,organic_bing,desktop,UK
+2026-03-08,/maths-activities-ks2,math activity sheets,18,2100,0.0086,7.1,organic_google,desktop,UK
+2026-03-08,/maths-activities-ks2,maths activities ks2,405,3600,0.1125,5.81,organic_google,tablet,UK
+2026-03-08,/phonics-worksheets,free phonics sheets,22,2400,0.0092,6.8,organic_google,mobile,UK
+2026-03-08,/phonics-worksheets,phonics worksheets,451,3945,0.1143,5.52,organic_google,desktop,UK
+2026-03-08,/reading-comprehension-year-3,reading comprehension year 3,160,2493,0.0642,7.84,organic_google,desktop,UK
+2026-03-08,/science-experiments-kids,science experiments for kids,114,2033,0.0561,10.28,organic_google,mobile,CA
+2026-03-08,/spelling-activities,spelling activities,29,1517,0.0191,12.27,organic_bing,desktop,AU
+2026-03-08,/times-tables-games,times tables games,144,2249,0.064,10.35,organic_google,mobile,UK
+2026-03-09,/classroom-display-ideas,classroom display ideas,71,1455,0.0488,15.59,organic_google,desktop,CA
+2026-03-09,/eyfs-resources,eyfs resources,308,3170,0.0972,6.87,organic_google,mobile,UK
+2026-03-09,/home-learning-resources,home learning resources,761,5554,0.137,3.62,organic_google,desktop,UK
+2026-03-09,/lesson-plans-english,english lesson plans,115,2107,0.0546,10.87,organic_google,mobile,UK
+2026-03-09,/maths-activities-ks2,maths activities ks2,319,3735,0.0854,6.99,organic_google,desktop,UK
+2026-03-09,/phonics-worksheets,phonics worksheets,717,5434,0.1319,3.94,organic_bing,mobile,US
+2026-03-09,/reading-comprehension-year-3,reading comprehension year 3,228,3049,0.0748,8.69,organic_yahoo,mobile,UK
+2026-03-09,/science-experiments-kids,science experiments for kids,124,2376,0.0522,10.32,organic_google,desktop,UK
+2026-03-09,/spelling-activities,spelling activities,74,1955,0.0379,12.32,organic_google,mobile,CA
+2026-03-09,/times-tables-games,times tables games,236,2789,0.0846,7.68,organic_google,desktop,CA
+2026-03-10,/classroom-display-ideas,classroom display ideas,42,1667,0.0252,14.21,organic_google,mobile,US
+2026-03-10,/eyfs-resources,eyfs resources,394,3750,0.1051,5.63,organic_google,mobile,UK
+2026-03-10,/home-learning-resources,home learning resources,894,6833,0.1308,4.17,organic_google,mobile,CA
+2026-03-10,/lesson-plans-english,english lesson plans,104,2232,0.0466,9.74,organic_google,mobile,UK
+2026-03-10,/maths-activities-ks2,maths activities ks2,336,3952,0.085,7.41,organic_google,mobile,UK
+2026-03-10,/phonics-worksheets,phonics worksheets,403,4341,0.0928,6.03,organic_google,desktop,UK
+2026-03-10,/reading-comprehension-year-3,reading comprehension year 3,251,3110,0.0807,8.48,organic_google,mobile,UK
+2026-03-10,/science-experiments-kids,science experiments for kids,108,2427,0.0445,9.2,organic_google,mobile,UK
+2026-03-10,/spelling-activities,spelling activities,98,1789,0.0548,10.6,organic_google,mobile,US
+2026-03-10,/times-tables-games,times tables games,209,2784,0.0751,7.19,organic_bing,desktop,CA
+2026-03-11,/classroom-display-ideas,classroom display ideas,58,1642,0.0353,13.12,organic_bing,mobile,US
+2026-03-11,/eyfs-resources,eyfs resources,280,3141,0.0891,6.09,organic_google,mobile,AU
+2026-03-11,/home-learning-resources,home learning resources,607,5665,0.1071,5.16,organic_bing,desktop,UK
+2026-03-11,/lesson-plans-english,english lesson plans,85,2596,0.0327,10.84,organic_google,mobile,AU
+2026-03-11,/maths-activities-ks2,maths activities ks2,438,4437,0.0987,5.63,organic_google,tablet,CA
+2026-03-11,/phonics-worksheets,phonics worksheets,597,4735,0.1261,5.65,organic_google,desktop,UK
+2026-03-11,/reading-comprehension-year-3,reading comprehension year 3,272,3430,0.0793,7.26,organic_google,desktop,UK
+2026-03-11,/science-experiments-kids,science experiments for kids,162,2714,0.0597,11.08,organic_bing,desktop,US
+2026-03-11,/spelling-activities,spelling activities,25,2041,0.0122,14.12,organic_google,mobile,UK
+2026-03-11,/times-tables-games,times tables games,179,2723,0.0657,9.84,organic_google,mobile,UK
+2026-03-12,/classroom-display-ideas,classroom display ideas,47,1603,0.0293,14.62,organic_google,desktop,UK
+2026-03-12,/eyfs-resources,eyfs resources,309,3217,0.0961,7.06,organic_google,desktop,US
+2026-03-12,/home-learning-resources,home learning resources,692,5983,0.1157,4.67,organic_google,mobile,UK
+2026-03-12,/lesson-plans-english,english lesson plans,135,2424,0.0557,12.06,organic_google,mobile,CA
+2026-03-12,/maths-activities-ks2,maths activities ks2,501,4094,0.1224,4.75,organic_google,desktop,UK
+2026-03-12,/phonics-worksheets,phonics worksheets,345,4983,0.0692,6.37,organic_google,mobile,UK
+2026-03-12,/reading-comprehension-year-3,reading comprehension year 3,197,3216,0.0613,8.99,organic_google,tablet,US
+2026-03-12,/science-experiments-kids,science experiments for kids,166,2597,0.0639,10.07,organic_yahoo,tablet,UK
+2026-03-12,/spelling-activities,spelling activities,101,1929,0.0524,12.24,organic_google,desktop,UK
+2026-03-12,/times-tables-games,times tables games,195,2661,0.0733,8.5,organic_google,desktop,US
+2026-03-13,/classroom-display-ideas,classroom display ideas,60,1554,0.0386,15.49,organic_google,mobile,AU
+2026-03-13,/eyfs-resources,eyfs resources,230,3408,0.0675,7.25,organic_google,desktop,CA
+2026-03-13,/home-learning-resources,home learning resources,583,5682,0.1026,4.38,organic_google,mobile,US
+2026-03-13,/lesson-plans-english,english lesson plans,147,2471,0.0595,11.6,organic_google,mobile,US
+2026-03-13,/maths-activities-ks2,maths activities ks2,313,3977,0.0787,6.97,organic_google,mobile,UK
+2026-03-13,/phonics-worksheets,phonics worksheets,571,4732,0.1207,4.39,organic_google,desktop,UK
+2026-03-13,/reading-comprehension-year-3,reading comprehension year 3,217,3071,0.0707,9.04,organic_google,mobile,UK
+2026-03-13,/science-experiments-kids,science experiments for kids,136,2541,0.0535,9.73,organic_google,mobile,UK
+2026-03-13,/spelling-activities,spelling activities,86,1856,0.0463,12.03,organic_bing,tablet,US
+2026-03-13,/times-tables-games,times tables games,150,2347,0.0639,8.61,organic_google,mobile,AU
+2026-03-14,/classroom-display-ideas,classroom display ideas,39,1400,0.0279,14.78,organic_google,mobile,CA
+2026-03-14,/eyfs-resources,eyfs resources,234,3203,0.0731,7.38,organic_google,mobile,UK
+2026-03-14,/home-learning-resources,home learning resources,646,4948,0.1306,4.56,organic_google,tablet,UK
+2026-03-14,/lesson-plans-english,english lesson plans,76,1956,0.0389,12.09,organic_google,desktop,US
+2026-03-14,/maths-activities-ks2,maths activities ks2,319,3163,0.1009,5.9,organic_bing,desktop,US
+2026-03-14,/phonics-worksheets,phonics worksheets,351,3521,0.0997,5.42,organic_google,desktop,UK
+2026-03-14,/reading-comprehension-year-3,reading comprehension year 3,166,2592,0.064,8.06,organic_google,mobile,UK
+2026-03-14,/science-experiments-kids,science experiments for kids,111,2066,0.0537,10.59,organic_google,desktop,UK
+2026-03-14,/spelling-activities,spelling activities,122,1819,0.0671,11.29,organic_google,mobile,UK
+2026-03-14,/times-tables-games,times tables games,122,2080,0.0587,9.4,organic_google,mobile,CA
+2026-03-15,/classroom-display-ideas,classroom display ideas,44,1383,0.0318,13.73,organic_google,desktop,UK
+2026-03-15,/eyfs-resources,eyfs resources,318,3035,0.1048,6.23,organic_google,desktop,UK
+2026-03-15,/home-learning-resources,home learning resources,519,5147,0.1008,5.16,organic_google,desktop,AU
+2026-03-15,/lesson-plans-english,english lesson plans,90,2069,0.0435,10.59,organic_google,desktop,AU
+2026-03-15,/maths-activities-ks2,math activity sheets,18,2100,0.0086,7.1,organic_google,desktop,UK
+2026-03-15,/maths-activities-ks2,maths activities ks2,296,3325,0.089,6.11,organic_google,desktop,CA
+2026-03-15,/phonics-worksheets,free phonics sheets,22,2400,0.0092,6.8,organic_google,mobile,UK
+2026-03-15,/phonics-worksheets,phonics worksheets,356,4309,0.0826,6.22,organic_google,desktop,UK
+2026-03-15,/reading-comprehension-year-3,reading comprehension year 3,218,2612,0.0835,7.86,organic_google,mobile,UK
+2026-03-15,/science-experiments-kids,science experiments for kids,116,2121,0.0547,10.26,organic_google,desktop,CA
+2026-03-15,/spelling-activities,spelling activities,71,1595,0.0445,11.77,organic_google,desktop,CA
+2026-03-15,/times-tables-games,times tables games,143,2006,0.0713,8.8,organic_google,tablet,UK
+2026-03-16,/classroom-display-ideas,classroom display ideas,38,1693,0.0224,15.4,organic_google,mobile,UK
+2026-03-16,/eyfs-resources,eyfs resources,303,3487,0.0869,6.41,organic_google,desktop,UK
+2026-03-16,/home-learning-resources,home learning resources,921,6323,0.1457,4.19,organic_google,desktop,UK
+2026-03-16,/lesson-plans-english,english lesson plans,101,2393,0.0422,11.48,organic_google,desktop,UK
+2026-03-16,/maths-activities-ks2,maths activities ks2,482,4411,0.1093,5.95,organic_google,mobile,US
+2026-03-16,/phonics-worksheets,phonics worksheets,523,4728,0.1106,4.84,organic_google,tablet,UK
+2026-03-16,/reading-comprehension-year-3,reading comprehension year 3,182,3023,0.0602,8.93,organic_google,desktop,UK
+2026-03-16,/science-experiments-kids,science experiments for kids,121,2684,0.0451,9.74,organic_google,mobile,AU
+2026-03-16,/spelling-activities,spelling activities,63,1772,0.0356,13.35,organic_google,mobile,CA
+2026-03-16,/times-tables-games,times tables games,191,2851,0.067,8.81,organic_google,mobile,UK
+2026-03-17,/classroom-display-ideas,classroom display ideas,78,1687,0.0462,13.68,organic_bing,desktop,US
+2026-03-17,/eyfs-resources,eyfs resources,388,3570,0.1087,6.01,organic_google,desktop,CA
+2026-03-17,/home-learning-resources,home learning resources,787,5879,0.1339,4.06,organic_google,mobile,UK
+2026-03-17,/lesson-plans-english,english lesson plans,92,2080,0.0442,9.98,organic_google,mobile,AU
+2026-03-17,/maths-activities-ks2,maths activities ks2,434,3876,0.112,5.27,organic_google,mobile,UK
+2026-03-17,/phonics-worksheets,phonics worksheets,587,4795,0.1224,4.36,organic_google,desktop,US
+2026-03-17,/reading-comprehension-year-3,reading comprehension year 3,217,2802,0.0774,8.69,organic_google,mobile,AU
+2026-03-17,/science-experiments-kids,science experiments for kids,130,2435,0.0534,9.6,organic_google,desktop,AU
+2026-03-17,/spelling-activities,spelling activities,79,2044,0.0386,11.89,organic_google,desktop,UK
+2026-03-17,/times-tables-games,times tables games,193,2895,0.0667,8.06,organic_yahoo,desktop,US
+2026-03-18,/classroom-display-ideas,classroom display ideas,63,1499,0.042,14.21,organic_google,desktop,UK
+2026-03-18,/eyfs-resources,eyfs resources,336,3564,0.0943,6.37,organic_google,mobile,US
+2026-03-18,/home-learning-resources,home learning resources,751,5970,0.1258,4.64,organic_bing,desktop,CA
+2026-03-18,/lesson-plans-english,english lesson plans,101,2389,0.0423,11.47,organic_google,mobile,UK
+2026-03-18,/maths-activities-ks2,maths activities ks2,410,4041,0.1015,5.98,organic_google,desktop,UK
+2026-03-18,/phonics-worksheets,phonics worksheets,468,4640,0.1009,5.1,organic_google,mobile,UK
+2026-03-18,/reading-comprehension-year-3,reading comprehension year 3,268,3196,0.0839,7.33,organic_google,desktop,CA
+2026-03-18,/science-experiments-kids,science experiments for kids,98,2005,0.0489,10.3,organic_google,mobile,UK
+2026-03-18,/spelling-activities,spelling activities,110,2172,0.0506,11.83,organic_google,mobile,AU
+2026-03-18,/times-tables-games,times tables games,158,2750,0.0575,9.15,organic_google,mobile,AU
+2026-03-19,/classroom-display-ideas,classroom display ideas,58,1645,0.0353,13.7,organic_google,desktop,CA
+2026-03-19,/eyfs-resources,eyfs resources,265,2919,0.0908,6.41,organic_google,tablet,UK
+2026-03-19,/home-learning-resources,home learning resources,774,5625,0.1376,4.41,organic_bing,mobile,CA
+2026-03-19,/lesson-plans-english,english lesson plans,125,2259,0.0553,10.72,organic_bing,desktop,US
+2026-03-19,/maths-activities-ks2,maths activities ks2,329,3925,0.0838,7.13,organic_google,desktop,AU
+2026-03-19,/phonics-worksheets,phonics worksheets,479,4895,0.0979,5.86,organic_google,mobile,UK
+2026-03-19,/reading-comprehension-year-3,reading comprehension year 3,204,2662,0.0766,7.79,organic_google,mobile,UK
+2026-03-19,/science-experiments-kids,science experiments for kids,163,2687,0.0607,9.46,organic_google,desktop,UK
+2026-03-19,/spelling-activities,spelling activities,108,1985,0.0544,11.24,organic_google,desktop,US
+2026-03-19,/times-tables-games,times tables games,191,2743,0.0696,8.92,organic_google,desktop,UK
+2026-03-20,/classroom-display-ideas,classroom display ideas,58,1625,0.0357,14.14,organic_google,desktop,AU
+2026-03-20,/eyfs-resources,eyfs resources,324,3547,0.0913,7.09,organic_google,desktop,UK
+2026-03-20,/home-learning-resources,home learning resources,583,5829,0.1,5.39,organic_google,desktop,US
+2026-03-20,/lesson-plans-english,english lesson plans,71,2527,0.0281,11.69,organic_google,desktop,CA
+2026-03-20,/maths-activities-ks2,maths activities ks2,386,3759,0.1027,5.97,organic_google,mobile,UK
+2026-03-20,/phonics-worksheets,phonics worksheets,510,4724,0.108,4.84,organic_bing,mobile,AU
+2026-03-20,/reading-comprehension-year-3,reading comprehension year 3,199,2936,0.0678,8.43,organic_google,desktop,UK
+2026-03-20,/science-experiments-kids,science experiments for kids,133,2430,0.0547,10.32,organic_google,mobile,UK
+2026-03-20,/spelling-activities,spelling activities,64,2062,0.031,12.79,organic_google,mobile,US
+2026-03-20,/times-tables-games,times tables games,236,2814,0.0839,6.94,organic_yahoo,desktop,UK
+2026-03-21,/classroom-display-ideas,classroom display ideas,42,1342,0.0313,14.31,organic_google,desktop,US
+2026-03-21,/eyfs-resources,eyfs resources,298,2934,0.1016,6.28,organic_google,desktop,US
+2026-03-21,/home-learning-resources,home learning resources,677,4789,0.1414,3.86,organic_google,desktop,CA
+2026-03-21,/lesson-plans-english,english lesson plans,83,1971,0.0421,10.6,organic_google,desktop,UK
+2026-03-21,/maths-activities-ks2,maths activities ks2,361,3619,0.0998,5.67,organic_google,desktop,UK
+2026-03-21,/phonics-worksheets,phonics worksheets,436,3924,0.1111,4.19,organic_google,mobile,UK
+2026-03-21,/reading-comprehension-year-3,reading comprehension year 3,261,2827,0.0923,6.61,organic_google,desktop,AU
+2026-03-21,/science-experiments-kids,science experiments for kids,88,2255,0.039,10.85,organic_google,mobile,UK
+2026-03-21,/spelling-activities,spelling activities,63,1782,0.0354,12.68,organic_bing,desktop,CA
+2026-03-21,/times-tables-games,times tables games,154,2454,0.0628,9.71,organic_bing,mobile,UK
+2026-03-22,/classroom-display-ideas,classroom display ideas,38,1371,0.0277,13.22,organic_google,mobile,AU
+2026-03-22,/eyfs-resources,eyfs resources,275,2808,0.0979,6.74,organic_google,mobile,UK
+2026-03-22,/home-learning-resources,home learning resources,559,5638,0.0991,5.16,organic_google,mobile,UK
+2026-03-22,/lesson-plans-english,english lesson plans,106,2077,0.051,10.46,organic_google,tablet,UK
+2026-03-22,/maths-activities-ks2,math activity sheets,18,2100,0.0086,7.1,organic_google,desktop,UK
+2026-03-22,/maths-activities-ks2,maths activities ks2,296,3442,0.086,6.14,organic_google,tablet,UK
+2026-03-22,/phonics-worksheets,free phonics sheets,22,2400,0.0092,6.8,organic_google,mobile,UK
+2026-03-22,/phonics-worksheets,phonics worksheets,431,4312,0.1,6.22,organic_google,desktop,UK
+2026-03-22,/reading-comprehension-year-3,reading comprehension year 3,231,2402,0.0962,5.84,organic_google,desktop,UK
+2026-03-22,/science-experiments-kids,science experiments for kids,152,2111,0.072,10.42,organic_google,mobile,UK
+2026-03-22,/spelling-activities,spelling activities,29,1683,0.0172,13.73,organic_google,desktop,UK
+2026-03-22,/times-tables-games,times tables games,204,2540,0.0803,8.59,organic_google,mobile,UK
+2026-03-23,/classroom-display-ideas,classroom display ideas,51,1623,0.0314,14.25,organic_google,desktop,UK
+2026-03-23,/eyfs-resources,eyfs resources,249,3381,0.0736,7.01,organic_google,mobile,UK
+2026-03-23,/home-learning-resources,home learning resources,758,5695,0.1331,3.94,organic_google,desktop,UK
+2026-03-23,/lesson-plans-english,english lesson plans,117,1998,0.0586,10.74,organic_google,mobile,CA
+2026-03-23,/maths-activities-ks2,maths activities ks2,307,3901,0.0787,6.35,organic_google,desktop,UK
+2026-03-23,/phonics-worksheets,phonics worksheets,523,4940,0.1059,5.63,organic_yahoo,mobile,UK
+2026-03-23,/reading-comprehension-year-3,reading comprehension year 3,199,3192,0.0623,8.82,organic_google,desktop,US
+2026-03-23,/science-experiments-kids,science experiments for kids,156,2566,0.0608,8.76,organic_bing,mobile,AU
+2026-03-23,/spelling-activities,spelling activities,64,2115,0.0303,11.99,organic_google,desktop,CA
+2026-03-23,/times-tables-games,times tables games,227,2787,0.0814,8.3,organic_google,desktop,UK
+2026-03-24,/classroom-display-ideas,classroom display ideas,37,1543,0.024,13.96,organic_google,desktop,AU
+2026-03-24,/eyfs-resources,eyfs resources,270,3481,0.0776,7.5,organic_google,mobile,UK
+2026-03-24,/home-learning-resources,home learning resources,717,5450,0.1316,4.91,organic_bing,mobile,UK
+2026-03-24,/lesson-plans-english,english lesson plans,99,2168,0.0457,11.52,organic_google,desktop,US
+2026-03-24,/maths-activities-ks2,maths activities ks2,425,4006,0.1061,5.86,organic_google,desktop,UK
+2026-03-24,/phonics-worksheets,phonics worksheets,590,5149,0.1146,6.39,organic_google,desktop,UK
+2026-03-24,/reading-comprehension-year-3,reading comprehension year 3,236,2795,0.0844,7.44,organic_google,mobile,UK
+2026-03-24,/science-experiments-kids,science experiments for kids,132,2574,0.0513,10.84,organic_google,mobile,UK
+2026-03-24,/spelling-activities,spelling activities,88,1899,0.0463,10.97,organic_google,desktop,AU
+2026-03-24,/times-tables-games,times tables games,203,2807,0.0723,9.56,organic_google,mobile,CA
+2026-03-25,/classroom-display-ideas,classroom display ideas,38,1509,0.0252,14.2,organic_google,mobile,UK
+2026-03-25,/eyfs-resources,eyfs resources,249,3711,0.0671,7.64,organic_bing,desktop,US
+2026-03-25,/home-learning-resources,home learning resources,744,5676,0.1311,4.31,organic_google,mobile,UK
+2026-03-25,/lesson-plans-english,english lesson plans,51,2372,0.0215,12.24,organic_google,desktop,AU
+2026-03-25,/maths-activities-ks2,maths activities ks2,337,3842,0.0877,7.05,organic_bing,mobile,UK
+2026-03-25,/phonics-worksheets,phonics worksheets,581,5079,0.1144,4.64,organic_google,mobile,UK
+2026-03-25,/reading-comprehension-year-3,reading comprehension year 3,281,3083,0.0911,6.7,organic_google,desktop,UK
+2026-03-25,/science-experiments-kids,science experiments for kids,112,2367,0.0473,9.76,organic_google,mobile,UK
+2026-03-25,/spelling-activities,spelling activities,66,2049,0.0322,12.48,organic_google,mobile,CA
+2026-03-25,/times-tables-games,times tables games,144,2602,0.0553,11.04,organic_google,mobile,US
+2026-03-26,/classroom-display-ideas,classroom display ideas,20,1573,0.0127,14.49,organic_google,desktop,US
+2026-03-26,/eyfs-resources,eyfs resources,349,3443,0.1014,6.32,organic_google,mobile,US
+2026-03-26,/home-learning-resources,home learning resources,564,5649,0.0998,5.35,organic_bing,mobile,UK
+2026-03-26,/lesson-plans-english,english lesson plans,133,2363,0.0563,10.76,organic_google,mobile,AU
+2026-03-26,/maths-activities-ks2,maths activities ks2,362,4022,0.09,7.31,organic_google,mobile,US
+2026-03-26,/phonics-worksheets,phonics worksheets,472,4316,0.1094,5.21,organic_google,mobile,UK
+2026-03-26,/reading-comprehension-year-3,reading comprehension year 3,334,2996,0.1115,6.06,organic_google,mobile,US
+2026-03-26,/science-experiments-kids,science experiments for kids,131,2690,0.0487,9.98,organic_google,mobile,AU
+2026-03-26,/spelling-activities,spelling activities,63,1952,0.0323,12.95,organic_google,desktop,UK
+2026-03-26,/times-tables-games,times tables games,247,2818,0.0877,8.41,organic_google,mobile,UK
+2026-03-27,/classroom-display-ideas,classroom display ideas,35,1605,0.0218,14.14,organic_bing,mobile,CA
+2026-03-27,/eyfs-resources,eyfs resources,220,3181,0.0692,7.54,organic_google,mobile,US
+2026-03-27,/home-learning-resources,home learning resources,582,5519,0.1055,5.14,organic_google,desktop,AU
+2026-03-27,/lesson-plans-english,english lesson plans,59,2322,0.0254,12.53,organic_google,desktop,UK
+2026-03-27,/maths-activities-ks2,maths activities ks2,466,4168,0.1118,5.9,organic_google,desktop,UK
+2026-03-27,/phonics-worksheets,phonics worksheets,600,5030,0.1193,5.29,organic_google,mobile,UK
+2026-03-27,/reading-comprehension-year-3,reading comprehension year 3,285,3378,0.0844,7.68,organic_google,desktop,UK
+2026-03-27,/science-experiments-kids,science experiments for kids,119,2623,0.0454,10.41,organic_google,desktop,UK
+2026-03-27,/spelling-activities,spelling activities,51,1997,0.0255,13.4,organic_google,tablet,UK
+2026-03-27,/times-tables-games,times tables games,140,2434,0.0575,10.61,organic_bing,desktop,UK
+2026-03-28,/classroom-display-ideas,classroom display ideas,41,1307,0.0314,14.36,organic_yahoo,desktop,AU
+2026-03-28,/eyfs-resources,eyfs resources,187,2742,0.0682,7.8,organic_google,tablet,UK
+2026-03-28,/home-learning-resources,home learning resources,491,4096,0.1199,3.64,organic_google,desktop,UK
+2026-03-28,/lesson-plans-english,english lesson plans,104,1920,0.0542,11.51,organic_google,desktop,UK
+2026-03-28,/maths-activities-ks2,maths activities ks2,317,3433,0.0923,5.96,organic_bing,mobile,UK
+2026-03-28,/phonics-worksheets,phonics worksheets,500,4235,0.1181,4.2,organic_google,desktop,UK
+2026-03-28,/reading-comprehension-year-3,reading comprehension year 3,327,2686,0.1217,5.23,organic_bing,tablet,AU
+2026-03-28,/science-experiments-kids,science experiments for kids,99,1982,0.0499,9.97,organic_google,desktop,UK
+2026-03-28,/spelling-activities,spelling activities,51,1637,0.0312,13.45,organic_bing,mobile,US
+2026-03-28,/times-tables-games,times tables games,124,2117,0.0586,10.02,organic_google,desktop,UK
+2026-03-29,/classroom-display-ideas,classroom display ideas,45,1311,0.0343,14.33,organic_google,desktop,CA
+2026-03-29,/eyfs-resources,eyfs resources,159,2578,0.0617,7.87,organic_google,mobile,US
+2026-03-29,/home-learning-resources,home learning resources,753,4989,0.1509,3.34,organic_google,mobile,CA
+2026-03-29,/lesson-plans-english,english lesson plans,92,1807,0.0509,10.22,organic_google,mobile,CA
+2026-03-29,/maths-activities-ks2,math activity sheets,18,2100,0.0086,7.1,organic_google,desktop,UK
+2026-03-29,/maths-activities-ks2,maths activities ks2,429,3216,0.1334,5.16,organic_google,desktop,CA
+2026-03-29,/phonics-worksheets,free phonics sheets,22,2400,0.0092,6.8,organic_google,mobile,UK
+2026-03-29,/phonics-worksheets,phonics worksheets,437,4001,0.1092,4.68,organic_google,desktop,CA
+2026-03-29,/reading-comprehension-year-3,reading comprehension year 3,184,2545,0.0723,7.45,organic_google,mobile,CA
+2026-03-29,/science-experiments-kids,science experiments for kids,150,2193,0.0684,9.66,organic_google,desktop,UK
+2026-03-29,/spelling-activities,spelling activities,64,1635,0.0391,10.38,organic_google,desktop,US
+2026-03-29,/times-tables-games,times tables games,111,1967,0.0564,9.17,organic_google,mobile,UK
+2026-03-30,/classroom-display-ideas,classroom display ideas,49,1610,0.0304,14.59,organic_google,mobile,UK
+2026-03-30,/eyfs-resources,eyfs resources,330,3224,0.1024,6.99,organic_google,mobile,AU
+2026-03-30,/home-learning-resources,home learning resources,754,5461,0.1381,3.44,organic_bing,mobile,UK
+2026-03-30,/lesson-plans-english,english lesson plans,73,2428,0.0301,12.13,organic_google,desktop,US
+2026-03-30,/maths-activities-ks2,maths activities ks2,304,3622,0.0839,7.07,organic_google,tablet,UK
+2026-03-30,/phonics-worksheets,phonics worksheets,468,4554,0.1028,6.6,organic_google,desktop,US
+2026-03-30,/reading-comprehension-year-3,reading comprehension year 3,232,3150,0.0737,7.63,organic_google,mobile,UK
+2026-03-30,/science-experiments-kids,science experiments for kids,138,2782,0.0496,11.03,organic_google,tablet,US
+2026-03-30,/spelling-activities,spelling activities,148,2158,0.0686,10.5,organic_google,mobile,UK
+2026-03-30,/times-tables-games,times tables games,215,2878,0.0747,6.9,organic_google,mobile,UK
+2026-03-31,/classroom-display-ideas,classroom display ideas,48,1666,0.0288,14.17,organic_google,mobile,CA
+2026-03-31,/eyfs-resources,eyfs resources,291,2874,0.1013,6.5,organic_google,mobile,AU
+2026-03-31,/home-learning-resources,home learning resources,641,5277,0.1215,4.12,organic_google,mobile,UK
+2026-03-31,/lesson-plans-english,english lesson plans,135,2700,0.05,11.9,organic_google,mobile,UK
+2026-03-31,/maths-activities-ks2,maths activities ks2,347,3845,0.0902,7.18,organic_google,desktop,UK
+2026-03-31,/phonics-worksheets,phonics worksheets,577,4645,0.1242,4.8,organic_google,desktop,UK
+2026-03-31,/reading-comprehension-year-3,reading comprehension year 3,253,3051,0.0829,7.58,organic_google,tablet,AU
+2026-03-31,/science-experiments-kids,science experiments for kids,142,2691,0.0528,8.9,organic_google,desktop,UK
+2026-03-31,/spelling-activities,spelling activities,123,2235,0.055,11.71,organic_google,mobile,UK
+2026-03-31,/times-tables-games,times tables games,217,3116,0.0696,8.54,organic_yahoo,desktop,UK
