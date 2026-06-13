@@ -72,45 +72,45 @@ Used SQL to answer key SEO performance questions:
 
 ## Key Visuals
 
-> Replace the image paths below with your actual file names in the `/visuals` folder.
+> Replace the image paths below with your actual file names in the `/image` folder.
 
 ### 1. Organic Traffic Trends Over Time
-![Organic Traffic Trends Over Time](visuals/traffic_trends.png)
+![Organic Traffic Trends Over Time](image/traffic_trends.png)
 
 **What this shows:** Organic traffic follows a generally upward trend over time, suggesting consistent SEO performance growth with periodic fluctuations. This supports the conclusion that organic search performance is stable and improving overall.
 
 ---
 
 ### 2. Total Organic Clicks Over Time
-![Total Organic Clicks Over Time](visuals/total_organic_clicks.png)
+![Total Organic Clicks Over Time](image/total_organic_clicks.png)
 
 **What this shows:** Daily organic clicks vary across the selected period but remain relatively stable, helping highlight short-term changes in user engagement and organic performance.
 
 ---
 
 ### 3. Organic Traffic Performance by Country
-![Organic Traffic Performance by Country](visuals/country_performance.png)
+![Organic Traffic Performance by Country](image/country_performance.png)
 
 **What this shows:** The UK contributes the largest share of traffic, followed by the US, AU, and CA. This indicates a strong regional concentration and suggests where localisation or market prioritisation decisions may have the greatest impact.
 
 ---
 
 ### 4. High-Impression Keywords with Low CTR
-![High-Impression Keywords with Low CTR](visuals/low_ctr_keywords.png)
+![High-Impression Keywords with Low CTR](image/low_ctr_keywords.png)
 
 **What this shows:** Keywords such as **“free phonics sheets”** and **“math activity sheets”** attract strong impressions but weak click-through rates, indicating clear SEO optimisation opportunities.
 
 ---
 
 ### 5. CTR vs Average Search Position
-![CTR vs Position](visuals/ctr_vs_position.png)
+![CTR vs Position](image/ctr_vs_position.png)
 
 **What this shows:** Higher-ranking positions consistently achieve better CTR, confirming the importance of ranking improvement for organic traffic growth.
 
 ---
 
 ### 6. Top Performing Pages by Organic Clicks
-![Top Performing Pages by Organic Clicks](visuals/top_pages.png)
+![Top Performing Pages by Organic Clicks](image/top_pages.png)
 
 **What this shows:** A limited number of pages drive a disproportionate share of total clicks, highlighting a concentrated content-performance pattern.
 
