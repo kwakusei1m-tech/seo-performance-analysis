@@ -4,6 +4,10 @@
 -- Project: SEO Performance Analysis (Organic Traffic Insights)
 -- =====================================================
 
+-- Dataset: synthetic_seo_performance_dataset.csv
+-- Tool: SQLite (DB Browser)
+-- Purpose: SEO performance analysis
+
 -- =====================================================
 -- 1. TOP PERFORMING PAGES BY ORGANIC CLICKS
 -- Purpose: Identify pages driving the most traffic
