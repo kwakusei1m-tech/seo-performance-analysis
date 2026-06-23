@@ -72,7 +72,6 @@ Used SQL to answer key SEO performance questions:
 
 ## Key Visuals
 
-> Replace the image paths below with your actual file names in the `/image` folder.
 
 ### 1. Organic Traffic Trends Over Time
 ![Organic Traffic Trends Over Time](image/traffic_trends.png)
